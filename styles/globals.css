@@ -12,7 +12,15 @@ a {
 }
 
 * {
+  font-size: 16px;
   box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  padding: 1.5rem;
+
+  /* border: 1px solid red; */
 }
 
 @media (prefers-color-scheme: dark) {
