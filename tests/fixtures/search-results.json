@@ -1,0 +1,473 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "objectID": "series-398890",
+      "country": "esp",
+      "id": "series-398890",
+      "image_url": "https://artworks.thetvdb.com/banners/images/missing/series.jpg",
+      "name": "Descubrir",
+      "first_air_time": "2019-11-29",
+      "overview": "Transporta a los espectadores a los destinos más famosos y a todas esas rutas fuera de lo común, experimentando otras formas de vida, desde un enfoque sostenible y responsable.",
+      "primary_language": "spa",
+      "primary_type": "series",
+      "status": "Ended",
+      "type": "series",
+      "tvdb_id": "398890",
+      "year": "2019",
+      "slug": "descubrir",
+      "overviews": {
+        "eng": "Transport viewers to the most famous destinations and all those unusual routes, experiencing other ways of life, from a sustainable and responsible approach.",
+        "spa": "Transporta a los espectadores a los destinos más famosos y a todas esas rutas fuera de lo común, experimentando otras formas de vida, desde un enfoque sostenible y responsable."
+      },
+      "translations": {
+        "eng": "Discover",
+        "spa": "Descubrir"
+      },
+      "network": "TVE",
+      "remote_ids": [
+        {
+          "id": "tt11941748",
+          "type": 2,
+          "sourceName": "IMDB"
+        }
+      ]
+    },
+    {
+      "objectID": "series-328711",
+      "aliases": [
+        "Star Trek Discovery"
+      ],
+      "country": "usa",
+      "id": "series-328711",
+      "image_url": "https://artworks.thetvdb.com/banners/posters/328711-5.jpg",
+      "name": "Star Trek: Discovery",
+      "first_air_time": "2017-09-24",
+      "overview": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.\r\n",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Continuing",
+      "type": "series",
+      "tvdb_id": "328711",
+      "year": "2017",
+      "slug": "star-trek-discovery",
+      "overviews": {
+        "ces": "Nová loď, nová mise. Příběh první důstojnice Michael Burnhamové, sloužící na hvězdné lodi U.S.S. Discovery, odehrávající se deset let před érou slavného kapitána Kirka a jeho pětileté mise.",
+        "dan": "Historien starter omtrent ti år før begivenhederne i den oprindelige Star Trek og følger besætningens rejser på rumskibet USS Discovery og deres opdagelser af nye verdener og civilisationer som i de andre serier men den handler også om en speciel hændelse og begivenhed i Star Trek universet der er blevet fortalt men som aldrig er blevet udforsket.",
+        "deu": "Nach einem Jahrhundert Ruhe bricht zwischen der Föderation und dem Klingonischen Reich ein Krieg aus, in dessen Zentrum eine entehrte Offizierin der Sternenflotte steht.",
+        "ell": "Μετά από έναν αιώνα ειρήνης ξεσπά πόλεμος μεταξύ της Ομοσπονδίας και της Αυτοκρατορίας Κλίνγκον. Κεντρικό πρόσωπο στη διαμάχη ένας ξεπεσμένος αξιωματικός του Αστροστόλου.",
+        "eng": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.\r\n",
+        "fra": "Sixième aventure télévisée, Star Trek : Discovery débarque dans un monde qui n'a plus rien à voir avec celui de la série originale.\r\nOn se place bien des années avant la saga originale, alors que la Fédération mène une exploration paisible de la galaxie, loin des problèmes.\r\nMais lors d'une patrouille de routine, un vaisseau de Starfleet, l'USS Shenzhou, va rencontrer les Klingons, des aliens hostiles à la paix, qui risque de faire basculer toute la galaxie dans le chaos.",
+        "heb": "כעשור לפני אירועי הסדרה המקורית ולאחר מאה שנות שקט פורצת מלחמה בין הפדרציה לאימפריה הקלינגונית, ובמרכז העימות – קצין בצי הכוכבים שאיבד את שמו הטוב.",
+        "hrv": "Deset godina prije kapetana Kirka, Spocka i Enterprisea, svemir su istraživali članovi posade USS Discovery. U novom poglavlju Star Trek priče pratimo avanture prve časnice Zvjezdane flote, Michael Burnham, koja je uvučena u sukob između Federacije i Klingonskog Carstva.",
+        "hun": "Körülbelül tíz évvel az eredeti Star Trek eseményei előtt a sorozat a USS Discovery legénységét követi, amikor felfedezik az új világokat és civilizációkat, miközben feltárják a franchise nyomait hordozó kortárs témákat. A teljes szezon történetsora egy incidensről és egy eseményről forog, ami a Star Trek történetében korábban említésre került, de soha nem vizsgálták.",
+        "ita": "Ambientata dieci anni prima degli eventi della serie originale di Star Trek, la serie segue gli equipaggi della USS Discovery e della USS Shenzhou nel loro viaggio nello spazio, alla scoperta di nuovi mondi e nuove civiltà. Nella prima stagione il Klingon T'Kuvma cerca di riunire le ventiquattro casate Klingon sotto il suo comando, portando a una guerra fredda tra la sua razza e la Federazione dei pianeti uniti.",
+        "jpn": "2005年に終了した『スタートレック:エンタープライズ』以降12年ぶり、6作目のドラマシリーズであり、宇宙船を舞台としながら船長以外を主人公とする初のスタートレックシリーズである。ソネクア・マーティン=グリーンが主演を務め、黒人女性が主演する初のシリーズでもある。第1作である『宇宙大作戦』の約10年前に時代が設定されており、2009年から始まった映画版シリーズのケルヴィン・タイムラインとは異なり、プライム・タイムライン（＝テレビドラマシリーズおよび2002年以前の映画版シリーズの時間軸）に沿っている。\r\n\r\nシーズン1の第1話のみはCBS All Accessで配信される前にCBSで放送された。15話からなるシーズン1は2017年9月24日から初週は2話、以降は週に1話ずつ配信された。シーズン1は2部構成となっており、9話からなる第1部は2017年11月12日までに配信され、6話からなる第2部は2018年1月7日から2月11日にかけて配信された。2017年10月23日には14話からなるシーズン2の制作が発表され[5]、2019年1月17日より配信された。2019年2月27日に、シーズン3の製作が発表された。なお、アメリカとカナダ以外では、Netflixの独占配信となっているが[6] 、2019年9月28日からはスーパー!ドラマTVでシーズン1が放送されている。\r\n\r\n日本語吹替版の監修は、角川スニーカー文庫で刊行された『スタートレック:ディープ・スペース・ナイン』のノベライズを翻訳した丹羽正之が担当している。また、Netflix配信の字幕では、実在の言語に加えてクリンゴン語が選択できるようになっている。",
+        "kor": "한 세기 만에 다시 나타난 클링온 제국. 연방 우주에 전운이 감돈다. 그 한가운데에 놓인 스타플릿 장교들, 불명예의 낙인을 씻어내고 평화를 되찾을 수 있을까.",
+        "nld": "De eerste twee seizoenen van de reeks spelen zich af in 2256, tien jaar voor Star Trek: The Original Series en volgt de USS Discovery en haar bemanning op haar avonturen. Het derde seizoen speelt in 3188 en later.\r\nIn tegenstelling tot de vorige series in de reeks, is de hoofdrolspeler niet de kapitein maar een vrouwelijke luitenant commandant. Daarnaast is het uiterlijk van de Klingon aangepast",
+        "pol": "Po stuleciu spokoju wybucha wojna między Federacją a Imperium Klingońskim. W centrum sporu stoi zhańbiony oficer Gwiezdnej Floty.",
+        "por": "Após um século de silêncio, irrompe a guerra entre a Federação e o Império Klingon, com uma oficial da Frota Estelar caída em desgraça no centro do conflito.",
+        "pt": "Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito. Situado cerca de dez anos antes de “Jornada nas Estrelas: A Série”, Discovery viaja pela galáxia descobrindo novos mundos e formas de vida, enquanto explora os temas atemporais da franquia.\r\n",
+        "rus": "История приключений экипажа корабля звёздного флота USS Discovery NCC-1031. Должное внимание также уделят драмам и конфликтам внутри коллектива корабля. Действие происходит примерно за 10 лет до событий оригинального сериала, и главная героиня, Мишель Бёрнхэм (более известная как Номер Первый) — сводная сестра Спока.",
+        "spa": "Diez años antes de Kirk, Spock y la Enterprise, la nave USS Discovery descubre nuevos mundos y formas de vida mientras un oficial de la Flota Estelar aprende a comprender un universo extraterrestres.",
+        "swe": "Efter ett århundrade av tystnad utbryter krig mellan Federationen och Klingonimperiet, och i centrum för konflikten står en vanärad officer från Stjärnflottan.",
+        "zhtw": "沈寂一世紀後，星際聯邦與克林貢帝國再度爆發戰爭，一位名譽掃地的星艦軍官則置身風暴中心。\r\n\r\n"
+      },
+      "translations": {
+        "ces": "Star Trek: Discovery",
+        "deu": "Star Trek: Discovery",
+        "ell": "Σταρ Τρεκ: Ντισκάβερι",
+        "eng": "Star Trek: Discovery",
+        "fra": "Star Trek : Discovery",
+        "heb": "מסע בין כוכבים: דיסקברי",
+        "hrv": "Zvjezdane staze: Discovery",
+        "hun": "Star Trek: Discovery",
+        "ita": "Star Trek: Discovery",
+        "jpn": "スタートレック ディスカバリー",
+        "kor": "스타트렉 : 디스커버리",
+        "nld": "Star Trek: Discovery",
+        "por": "Star Trek: Discovery",
+        "pt": "Star Trek: Discovery",
+        "rus": "Звездный путь: Дискавери",
+        "spa": "Star Trek: Discovery",
+        "swe": "Star Trek: Discovery",
+        "yue": "星际迷航：发现号",
+        "zho": "星空奇遇記：發現號",
+        "zhtw": "星際爭霸戰：發現號"
+      },
+      "network": "CBS All Access",
+      "remote_ids": [
+        {
+          "id": "https://www.paramountplus.com/shows/star-trek-discovery/",
+          "type": 4,
+          "sourceName": "Official Website"
+        },
+        {
+          "id": "tt5171438",
+          "type": 2,
+          "sourceName": "IMDB"
+        },
+        {
+          "id": "SH02478293",
+          "type": 3,
+          "sourceName": "TMS (Zap2It)"
+        },
+        {
+          "id": "67198",
+          "type": 12,
+          "sourceName": "TheMovieDB.com"
+        }
+      ],
+      "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-5_t.jpg"
+    },
+    {
+      "objectID": "series-351291",
+      "aliases": [
+        "A Discovery Of Witches: Author's Notes With Deborah Harkness",
+        "Le Livre perdu des sortilèges",
+        "Манускрипт всевластия"
+      ],
+      "country": "gbr",
+      "id": "series-351291",
+      "image_url": "https://artworks.thetvdb.com/banners/series/351291/posters/5fde52bc5c9d2.jpg",
+      "name": "A Discovery of Witches",
+      "first_air_time": "2018-09-14",
+      "overview": "Diana Bishop, a historian and reluctant witch, unexpectedly discovers a bewitched manuscript in Oxford’s Bodleian Library. This discovery forces her back into the world of magic in order to unravel the secrets it holds about magical beings. She is offered help by a mysterious geneticist and vampire Matthew Clairmont. Despite a long-held mistrust between witches and vampires, they form an alliance and set out to protect the book and solve the mysteries hidden within while dodging threats from the creature world.",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Ended",
+      "type": "series",
+      "tvdb_id": "351291",
+      "year": "2018",
+      "slug": "a-discovery-of-witches",
+      "overviews": {
+        "ces": "Adaptace úspěšné historicko-fantastické novely Deborah Harknessové.\r\n\r\nDiana Bishopová, historička a také čarodějka, nachází Ashmole 782 s vědomím, že musí vyřešit její tajemství. Pomoc jí nabízí tajemný Matthew Clairmont. Ale on je upír a čarodějky by nikdy upírům věřit neměly.",
+        "deu": "Die Historikerin Diana Bishop ist eine Hexe, die nichts mit ihrer übernatürlichen Seite zu tun haben möchte. Zumindest bis sie auf ein verzaubertes Manuskript stößt, welches sie zurück in die übernatürliche Welt wirft, wo sie bald mit dem 1.500 Jahre alten Vampir und Naturwissenschaftler Matthew Clairmont zu arbeiten beginnt. Die zwischen ihnen aufblühende Romanze stellt jedoch den ultimativen Tabubruch dar und könnte den fragilen Frieden zwischen Menschen und magischen Wesen gefährden.",
+        "eng": "Diana Bishop, a historian and reluctant witch, unexpectedly discovers a bewitched manuscript in Oxford’s Bodleian Library. This discovery forces her back into the world of magic in order to unravel the secrets it holds about magical beings. She is offered help by a mysterious geneticist and vampire Matthew Clairmont. Despite a long-held mistrust between witches and vampires, they form an alliance and set out to protect the book and solve the mysteries hidden within while dodging threats from the creature world.",
+        "fra": "Diana Bishop, historienne à l'Université d'Oxford et descendante d'une grande lignée de sorcières, ne peux plus renier ses pouvoirs lorsqu'elle tombe par mégarde sur un livre ensorcelé. L'étrange magie contenue dans ce grimoire va attirer beaucoup d'autres créatures qui vivent depuis toujours cachées au beau milieu des humains. Malgré les tensions entre sorcières, démons et vampires, Diana va se tourner vers un vampire, Matthew Clairmont, un scientifique d'Oxford étudiant les origines des créatures. Ensemble, ils chercheront des réponses sur ce fameux livre disparu et sur son lien avec Diana et feront face à d'autres créatures, prêtes à tout pour mettre la main sur ce grimoire.",
+        "heb": "דיאנה בישופ, היסטוריונית ומכשפה, היא ניגשת לאשמולה 782 ויודעת שהיא חייבת לפתור את המסתורין שלה. זר מסתורי בשם מתיו מציע לה עזרה, אבל הוא ערפד, ומכשפות לא יכולות לסמוך על ערפדים.",
+        "hun": "Az angol fantáziasorozat Deborah Harkness regénytrilógiájának első részéből, A boszorkányok elveszett könyvéből készült. Hőse a fiatal Diana Bishop (Teresa Palmer – Amikor kialszik a fény, A fegyvertelen katona), aki a boszorkány örökségét tagadva történésznek állt. Amikor azonban egy oxfordi könyvtárban ráakad a titokzatos könyvre, ami magyarázatot adhat a kérdéseire, veszélyes rejtély középén találja magát. Az elveszettnek hitt könyv ugyanis felkelti a túlvilági lények érdeklődését is.",
+        "ita": "Diana Bishop, una storica e riluttante strega, inaspettatamente trova un manoscritto stregato alla biblioteca Bodleiana di Oxford. Questa scoperta la costringe a riportarla nel mondo della magia per svelare i segreti appartenuti agli esseri magici. Le si offre di aiutarla un misterioso genetista e vampiro, Matthew Clairmont. Malgrado una diffidenza prolungata tra le streghe e i vampiri, formano un'alleanza e propongono di proteggere il libro e risolvere i misteri celati all'interno mentre sfuggono alle minacce del mondo delle creature.",
+        "kor": "뱀파이어의 비밀을 손에 쥐게 된 마녀, 불신의 관계이지만 동맹을 형성하여 책을 보호하고 생물계의 위협을 피하면서 그 속에 숨겨진 신비를 풀어 나가는 이야기",
+        "nld": "Diana Bishop, een historicus en onwillige heks, ontdekt onverwachts een betoverd manuscript in de Bodleiaanse bibliotheek van Oxford. Deze ontdekking dwingt haar terug in de magische wereld, om de geheimen te ontrafelen die het boek heeft over magische wezens. Ze krijgt hulp van de mysterieuze geneticus en vampier, Matthew Clairmont. Ondanks een lang gekoesterd wantrouwen tussen heksen en vampieren, vormen ze een alliantie en gaan ze op pad om het boek te beschermen en de verborgen mysteries op te lossen, terwijl ze dreigingen uit de schepselswereld ontwijken.",
+        "pol": "Diana Bishop (Teresa Palmer) jest niezwykle bystrą i błyskotliwą wykładowczynią historii na Oxfordzie. Kobieta jest również czarownicą, ale robi co może, aby zapomnieć o swoim pochodzeniu. Wszystko zmienia się jednak w dniu, w którym wchodzi w posiadanie tajemniczego manuskryptu. Aby rozwikłać związaną z nim zagadkę, historyczka podejmuje współpracę z enigmatycznym genetykiem, Matthew Clairmontem (Matthew Goode). Szybko okazuje się, że i on skrywa mroczną rodzinną tajemnicę - jest wampirem. Ich wspólne poszukiwania sprawiają, że kruchy pokój, który od wieków panuje między czarownicami, wampirami, demonami oraz ludźmi jest zagrożony.",
+        "por": "Baseado na triologia de sucesso de Deborah Harkness, A Noite de Todas as Almas é um thriller romântico que desvenda um mundo de criaturas fantásticas que se escondem em plena luz do dia com medo das repercussões humanas – são vampiros, bruxas e demónios. A brilhante historiadora Diana Bishop é uma bruxa que vive na negação da sua herança mágica. Até que a descoberta de um manuscrito antigo a lança no cerne de um mistério perigoso - e no caminho do enigmático vampiro Matthew Clairmont.",
+        "pt": "Pelos corredores da Universidade de Oxford está Diana Bishop, uma jovem descendente de bruxas. No entanto, ela só embarca em uma jornada repleta de magia ao encontrar um manuscrito desaparecido na biblioteca da faculdade. Enquanto vive essa aventura, ela acaba conhecendo o cientista e vampiro Matthew Clairmont, por quem logo se apaixona.",
+        "rus": "История любви на фоне оксфордской академической жизни. Историк Диана Бишоп специализируется на старинных рукописях и однажды обнаруживает в архивах некий манускрипт, связанный с магией. С этих пор жизнь Дианы превращается в кошмар, зато судьба сводит её с обаятельным генетиком Мэттью Клермонтом. Пикантность ситуации заключается в том, что Диана — потомственная ведьма, а Мэттью — вампир.",
+        "spa": "Diana Bishop es una académica brillante que huye de su condición de bruja, pero que tras descubrir un antiguo manuscrito de alquimia en la Biblioteca Bodleian de Oxford se convierte en la protagonista de un peligroso misterio. En el camino se encontrará con el enigmático genetista Matthew Clairmont quien también tiene un oscuro secreto familiar: es un vampiro.",
+        "swe": "Den framstående forskaren Diana Bishop är häxa men förtränger sitt ursprung. När hon i Oxfords Bodleianska bibliotek snubblar över en medeltida förhäxad handskrift som världens övernaturliga väsen längre trott gått förlorad - och som kan rymma svaren kring deras existens - kastas hon in i hisnande farligt mysterium.",
+        "zho": "马修·古迪、泰丽莎·帕尔墨([血战钢锯岭])将主演Sky新剧《魔法觉醒》，该剧由同名小说改编。胡安·卡洛斯·梅迪纳执导，凯特·布鲁克编剧。帕尔墨在剧中扮演牛津大学学者，也是一个女巫家族继承人。她无意间发现一本被施加魔法的书，这将她和马修·古迪扮演的神秘吸血鬼联系到一起。",
+        "zhtw": "歷史學者戴安娜‧畢夏普在牛津大學的博德利圖書館翻閱到一本中了巫術的鍊金術手抄本，這是魔法對她刻意維護的平庸人生，所發動的一次不受歡迎的滋擾。出身古老女巫世家的戴安娜，打定主意要跟家族遺傳劃清界線。但即使把這本手抄本扔回藏書庫，她再也不能跟魔法的世界保持距離。 因為混雜在凡人中間，跟我們一起生活的神奇生物，除了巫族，還有富有創造力、也善於破壞的魔族，以及長生不老的吸血鬼。他們都對這女巫的發現感興趣。他們都相信手抄本裡有著關係過去與未來的重要線索，而且都想知道究竟戴安娜使用了什麼魔法，才得以拿到這個難以捉摸的手抄本。"
+      },
+      "translations": {
+        "ces": "Čas čarodějnic",
+        "deu": "A Discovery of Witches",
+        "eng": "A Discovery of Witches",
+        "fra": "A Discovery of Witches",
+        "heb": "ליל המכשפות",
+        "hun": "A boszorkányok elveszett könyve",
+        "ita": "A Discovery of Witches",
+        "kor": "마녀의 발견",
+        "nld": "A Discovery of Witches",
+        "pol": "Księga czarownic",
+        "por": "A Noite de Todas as Almas",
+        "pt": "A Descoberta das Bruxas",
+        "rus": "Открытие ведьм",
+        "spa": "El descubrimiento de las brujas",
+        "swe": "A Discovery of Witches",
+        "zho": "魔法觉醒",
+        "zhtw": "魔法覺醒"
+      },
+      "network": "Sky One",
+      "remote_ids": [
+        {
+          "id": "https://www.sky.com/watch/title/programme/discovery-of-witches/discovery-of-witches",
+          "type": 4,
+          "sourceName": "Official Website"
+        },
+        {
+          "id": "adiscoveryofwitchestv",
+          "type": 5,
+          "sourceName": "Facebook"
+        },
+        {
+          "id": "ADiscoveryOfWTV",
+          "type": 6,
+          "sourceName": "Twitter"
+        },
+        {
+          "id": "adiscoveryofwitchestv/",
+          "type": 9,
+          "sourceName": "Instagram"
+        },
+        {
+          "id": "77236",
+          "type": 12,
+          "sourceName": "TheMovieDB.com"
+        },
+        {
+          "id": "10.5240/2DC2-32F5-28FD-4200-EBE3-O",
+          "type": 13,
+          "sourceName": "EIDR"
+        },
+        {
+          "id": "tt2177461",
+          "type": 2,
+          "sourceName": "IMDB"
+        }
+      ],
+      "thumbnail": "https://artworks.thetvdb.com/banners/series/351291/posters/5fde52bc5c9d2_t.jpg"
+    },
+    {
+      "objectID": "series-79661",
+      "country": "usa",
+      "id": "series-79661",
+      "image_url": "https://artworks.thetvdb.com/banners/posters/79661-1.jpg",
+      "name": "Discovery Channel Documentaries",
+      "first_air_time": "1992-01-13",
+      "overview": "Documentaries that have been produced by the Discovery Channel.",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Continuing",
+      "type": "series",
+      "tvdb_id": "79661",
+      "year": "1992",
+      "slug": "discovery-channel-documentaries",
+      "overviews": {
+        "eng": "Documentaries that have been produced by the Discovery Channel.",
+        "fin": "Tämä sarja sisältää Dicovery Channelin esittämät dokumentit.",
+        "heb": "סרטי תעודה מבית היוצר של ערוץ דיסקברי מכל השנים.",
+        "ita": "Questa serie contiene documentari che hanno debuttato su Discovery Channel.",
+        "por": "Esta serie contem documentários feito pelo canal",
+        "spa": "Esta serie contiene documentales que han sido producidos por el canal Discovery Channel"
+      },
+      "translations": {
+        "eng": "Discovery Channel Documentaries",
+        "fin": "Discovery Channelin dokumentit",
+        "heb": "דוקו - ערוץ דיסקברי",
+        "ita": "Discovery Channel: Documentari",
+        "por": "Discovery Channel: Documentários",
+        "spa": "Documentales de Discovery Channel",
+        "zho": "探索频道纪录片"
+      },
+      "network": "Discovery",
+      "thumbnail": "https://artworks.thetvdb.com/banners/posters/79661-1_t.jpg"
+    },
+    {
+      "objectID": "series-365414",
+      "country": "usa",
+      "id": "series-365414",
+      "image_url": "https://artworks.thetvdb.com/banners/posters/5d24ca4fb1f98.jpg",
+      "name": "Human Discoveries",
+      "first_air_time": "2019-07-16",
+      "overview": "A group of friends living at the dawn of human civilization are the first to discover necessities like fire and the wheel. We'll watch as they stumble onto humanity's best, and worst, innovations. Art. Alcohol. Fashion. Racism. Small talk. And, much to their confusion, monogamy.",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Ended",
+      "type": "series",
+      "tvdb_id": "365414",
+      "year": "2019",
+      "slug": "human-discoveries",
+      "overviews": {
+        "eng": "A group of friends living at the dawn of human civilization are the first to discover necessities like fire and the wheel. We'll watch as they stumble onto humanity's best, and worst, innovations. Art. Alcohol. Fashion. Racism. Small talk. And, much to their confusion, monogamy.",
+        "fra": "Les aventures d'un groupe d'amis vivant au commencement de la civilisation humaine. En parallèle de la découverte du feu ou encore de la roue, ils font faire l'apprentissage des meilleures et des pires innovations de l'humanité comme l'art, l'alcool, la mode, le racisme, la monogamie.."
+      },
+      "translations": {
+        "eng": "Human Discoveries"
+      },
+      "network": "Facebook Watch",
+      "remote_ids": [
+        {
+          "id": "90834",
+          "type": 12,
+          "sourceName": "TheMovieDB.com"
+        },
+        {
+          "id": "tt9845250",
+          "type": 2,
+          "sourceName": "IMDB"
+        }
+      ],
+      "thumbnail": "https://artworks.thetvdb.com/banners/posters/5d24ca4fb1f98_t.jpg"
+    },
+    {
+      "objectID": "series-250148",
+      "country": "usa",
+      "id": "series-250148",
+      "image_url": "https://artworks.thetvdb.com/banners/posters/5b7d09455a1a4.jpg",
+      "name": "Investigation Discovery Documentaries",
+      "first_air_time": "2006-01-05",
+      "overview": "ID is the brand new channel from Discovery home to some of the finest, most diverse high-quality crime programming on UK television. Uncover the stories, understand the motives, find the facts. Join ID to review the evidence, listen to people’s experiences, ask questions and investigate the world’s most compelling crimes.",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Continuing",
+      "type": "series",
+      "tvdb_id": "250148",
+      "year": "2006",
+      "slug": "investigation-discovery-documentaries",
+      "overviews": {
+        "eng": "ID is the brand new channel from Discovery home to some of the finest, most diverse high-quality crime programming on UK television. Uncover the stories, understand the motives, find the facts. Join ID to review the evidence, listen to people’s experiences, ask questions and investigate the world’s most compelling crimes."
+      },
+      "translations": {
+        "eng": "Investigation Discovery Documentaries"
+      },
+      "network": "Investigation Discovery",
+      "thumbnail": "https://artworks.thetvdb.com/banners/posters/5b7d09455a1a4_t.jpg"
+    },
+    {
+      "objectID": "series-411855",
+      "country": "usa",
+      "id": "series-411855",
+      "image_url": "https://artworks.thetvdb.com/banners/v4/series/411855/posters/6195b8b862ee0.jpg",
+      "name": "Discovering David Dobrik",
+      "first_air_time": "2021-11-16",
+      "overview": "As a DACA dreamer, David Dobrik hasn’t been able to freely travel outside the US. But that's about to change. In this new series, David surprises his closest friends with their biggest adventure yet: a trip around the world, starting where it all began.",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Continuing",
+      "type": "series",
+      "tvdb_id": "411855",
+      "year": "2021",
+      "slug": "discovering-david-dobrik",
+      "overviews": {
+        "eng": "As a DACA dreamer, David Dobrik hasn’t been able to freely travel outside the US. But that's about to change. In this new series, David surprises his closest friends with their biggest adventure yet: a trip around the world, starting where it all began."
+      },
+      "translations": {
+        "eng": "Discovering David Dobrik"
+      },
+      "network": "discovery+",
+      "remote_ids": [
+        {
+          "id": "https://www.discoveryplus.com/show/discovering-david-dobrik-us",
+          "type": 4,
+          "sourceName": "Official Website"
+        },
+        {
+          "id": "tt15389480",
+          "type": 2,
+          "sourceName": "IMDB"
+        }
+      ],
+      "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/411855/posters/6195b8b862ee0_t.jpg"
+    },
+    {
+      "objectID": "series-82052",
+      "aliases": [
+        "Les Grandes inventions de l'antiquité"
+      ],
+      "country": "usa",
+      "id": "series-82052",
+      "image_url": "https://artworks.thetvdb.com/banners/posters/82052-3.jpg",
+      "name": "Ancient Discoveries",
+      "first_air_time": "2003-12-21",
+      "overview": "The remarkable story of Ancient inventions.\r\n",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Ended",
+      "type": "series",
+      "tvdb_id": "82052",
+      "year": "2003",
+      "slug": "ancient-discoveries",
+      "overviews": {
+        "ces": "Dnes žijeme ve světě, jenž by pro naše praprarodiče byl těžko představitelný. Je to věk nejmodernějších technologií, proudových letadel, superpočítačů a inteligentních strojů. Od dob průmyslové revoluce se náš svět rozvíjí nebývalým tempem a všechny předchozí civilizace nechává daleko za sebou. Ale je tomu skutečně tak? Dokumentární seriál Starověké objevy zkoumá udivující vyspělé technologie antického světa a ptá se, proč se všemi těmito úžasnými vynálezy nezapočala průmyslová revoluce již o dva tisíce let dříve.",
+        "deu": "Historiker enthüllen und diskutieren Beweise für jahrhundertealte Theorien und Prototypen vieler zeitgenössischer Verfahren und Technologien wie Gehirnchirurgie und Computer.",
+        "eng": "The remarkable story of Ancient inventions.\r\n",
+        "fra": "Les progrès technologiques du 20e siècle, rendus possible par la Révolution Industrielle ont éclipsé à la vitesse de la lumière les découvertes faites auparavant. Pourtant, il s'avère que l'Antiquité fut une période d'innovations intenses et \"Les Grandes Découvertes de l'Antiquité\" s'applique à redécouvrir ces technologies étonnantes. C'est à se demander pourquoi la Révolution Industrielle ne s'est pas déclenchée 2000 ans plus tôt !\r\n\r\nCette série (Ancient Discoveries en version originale) est composée de 2 saisons de 3 épisodes intitulés \"Les grandes découvertes de l'Antiquité\" (2002 et 2005) puis à partir de 2007, de saisons plus longues intitulées \"Les grandes inventions de l'Antiquité\"",
+        "rus": "Историки античности часто сталкиваются с необычным финоменом: то, что было когда-то сотворено руками наших дальних предков, можно ±ÑÐ»Ð¾ Ð²Ð¾Ð¿Ð»Ð¾ÑÐ¸ÑÑ Ð² Ð¶Ð¸Ð·Ð½Ñ, ÑÐ¾Ð»ÑÐºÐ¾ Ð´ÐµÐ»Ð°Ñ ÑÐ¿Ð¾Ñ Ð½Ð°, ÐºÐ°Ðº Ð²ÑÐµ Ð·Ð½Ð°ÑÑ, ÑÐ¾Ð²ÑÐµÐ¼ÐµÐ½Ð½ÑÑ Ð½Ð°ÑÐºÑâ¦ ÐÐ°Ðº ÑÐ¿ÑÐ°Ð²Ð»ÑÐ»Ð¸ÑÑ ÑÐ¾ ÑÐ¾Ð±ÑÑÐ²ÐµÐ½Ð½Ð¾Ð¹ Ð·Ð°Ð´Ð°ÑÐµÐ¹ Ð¸Ð½Ð¶ÐµÐ½ÐµÑÑ Ð´ÑÐµÐ²Ð½Ð¾ÑÑÐ¸. ÐÑÐµ Ð·Ð½Ð°ÑÑ ÑÐ¾, ÑÑÐ¾ Ð²ÐµÐ´Ñ Ð¸Ð¼, Ð¼ÑÐ³ÐºÐ¾ Ð³Ð¾Ð²Ð¾ÑÑ, ÑÐ´Ð°Ð»Ð¾ÑÑ ÑÐ´ÐµÐ»Ð°ÑÑ ÐºÑÐ°Ð½Ñ, Ð¿ÐµÑÐµÐ½Ð¾ÑÐ¸Ð²ÑÐ¸Ðµ Ð³ÑÑÐ·Ñ Ð²ÐµÑÐ¾Ð¼ Ð² 10-ÐºÐ¸ ÑÐ¾Ð½Ð½, Ð²Ð¾Ð´Ð½ÑÐµ Ð³Ð°ÑÐ¿ÑÐ½Ñ, ÐºÐ¾ÑÐ¾ÑÑÐ¼Ð¸ Ð¼Ð¾Ð¶Ð½Ð¾ Ð±ÑÐ»Ð¾, ÑÑÐ°Ð»Ð¾ Ð±ÑÑÑ, Ð¿Ð¾ÑÐ¾Ð¿Ð¸ÑÑ ÐºÐ¾ÑÐ°Ð±Ð»Ñ, Ð¼ÐµÑÐ°Ð½Ð¸ÑÐµÑÐºÐ¸Ðµ Ð¿Ð¸Ð»Ñ, Ð¿ÑÐ¸Ð²Ð¾Ð´Ð¸Ð¼ÑÐµ Ð² Ð´ÐµÐ¹ÑÑÐ²Ð¸Ðµ ÑÐ¸Ð»Ð¾Ð¹ Ð²Ð¾Ð´Ñ Ð¸ Ð¿Ð¾ÑÑÐ¸ Ð²ÑÐµ Ð´ÑÑÐ³Ð¾Ðµ. ÐÐµÑÐ¾Ð¼Ð½ÐµÐ½Ð½Ð¾, ÑÑÐ¾Ð¸Ñ ÑÐ¿Ð¾Ð¼ÑÐ½ÑÑÑ ÑÐ¾, ÑÑÐ¾ ÑÐ°Ðº ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð° Ð»Ð¸, ÐºÐ°Ðº Ð±Ð¾Ð»ÑÑÐ¸Ð½ÑÑÐ²Ð¾ Ð¸Ð· Ð½Ð°Ñ Ð¿ÑÐ¸Ð²ÑÐºÐ»Ð¾ Ð³Ð¾Ð²Ð¾ÑÐ¸ÑÑ, ÑÐ¾Ð²ÑÐµÐ¼ÐµÐ½Ð½Ð°Ñ Ð½Ð°ÑÐºÐ° ÐºÐ°Ðº ÑÐ°Ð· ÑÐ°Ð·Ð³Ð°Ð´Ð°ÑÑ, ÐºÐ°ÐºÐ¸Ð¼Ð¸ ÑÐµÑÐ½Ð¾Ð»Ð¾Ð³Ð¸ÑÐ¼Ð¸ ÑÐ°ÐºÐ¶Ðµ Ð²Ð¾ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð»Ð¸ÑÑ Ð´ÑÐµÐ²Ð½ÐµÐ¹ÑÐ¸Ðµ Ð¸Ð½Ð¶ÐµÐ½ÐµÑÑ? ÐÐ¾Ð³ÑÑ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÑ, ÐºÐ¾ÑÐ¾ÑÑÐ¼Ð¸ ÑÐ°Ðº ÑÐºÐ°Ð·Ð°ÑÑ Ð²Ð¾ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð»Ð¸ÑÑ Ð½Ð°ÑÐ¸ Ð¿ÑÐµÐ´ÐºÐ¸, Ð¾ÑÑÑÐºÐ°ÑÑ Ð¿ÑÐ¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð² Ð½Ð°ÑÐ¸ Ð´Ð½Ð¸?",
+        "spa": "Grandes descubrimientos es una serie que viaja miles de aÃ±os atrÃ¡s en el tiempo para descubrir cÃ³mo las geniales ideas de nuestros antecesores son un perfecto reflejo de las ideas de la sociedad moderna.\r\n\r\nEn cada uno de los episodios de la serie los espectadores explorarÃ¡n los inventos y la ingenierÃ­a de la antigÃ¼edad, con la ayuda de los expertos y los yacimientos arqueolÃ³gicos que continÃºan revelando nuevas pruebas sobre estas creaciones."
+      },
+      "translations": {
+        "ces": "StarovÄkÃ© objevy",
+        "deu": "Ursprung der Technik",
+        "eng": "Ancient Discoveries",
+        "fra": "Les Grandes dÃ©couvertes de l'antiquitÃ©",
+        "rus": "ÐÑÐµÐ²Ð½Ð¸Ðµ Ð¾ÑÐºÑÑÑÐ¸Ñ",
+        "spa": "Grandes Descubrimientos"
+      },
+      "network": "History",
+      "remote_ids": [
+        {
+          "id": "tt1034360",
+          "type": 2,
+          "sourceName": "IMDB"
+        },
+        {
+          "id": "EP00580427",
+          "type": 3,
+          "sourceName": "TMS (Zap2It)"
+        },
+        {
+          "id": "31526",
+          "type": 12,
+          "sourceName": "TheMovieDB.com"
+        }
+      ],
+      "thumbnail": "https://artworks.thetvdb.com/banners/posters/82052-3_t.jpg"
+    },
+    {
+      "objectID": "series-79816",
+      "country": "usa",
+      "id": "series-79816",
+      "image_url": "https://artworks.thetvdb.com/banners/posters/79816-1.jpg",
+      "name": "Discovery 2057",
+      "first_air_time": "2007-01-28",
+      "overview": "What would you see and experience if the clocks rolled forward 50 years? In a unique blend of drama and science, this three-part series shows you the world of tomorrow. Will we have flying cars? Will advances in medicine help us stay young forever? What about \"printing\" custom-made vital organs? What will our cities look like? What will tomorrow's wars be about? Will we have robots helping around the house? Will solar power be the new oil?\r\n\r\nSupported by the world's leading scientists and research institutes, we embark on a quest to answer some of society's most fundamental questions and reveal the dramas of tomorrow's world along the way. State-of-the-art computer graphics in combination with a dynamic story line will create a world usually only seen in feature films, but with the accuracy and relevance of a documentary. This series is all about opening the window of our future based on science fact, not science fiction.",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Ended",
+      "type": "series",
+      "tvdb_id": "79816",
+      "year": "2007",
+      "slug": "discovery-2057",
+      "overviews": {
+        "deu": "Schon immer waren Menschen davon beeindruckt herauszufinden, wie Ihr Leben in der Zukunft aussehen wird. Diese ZDF-Doku ist eine der aufwÃ¤ndigsten Produktionen zu diesem Thema und versucht in 3 Teilen ein Bild zu schildern, wie das Leben der Menschen in der Zukunft, bzw. genauer gesagt im Jahre 2057 aussehen kÃ¶nnte. Die Doku Ã¼ber unser zukÃ¼nftiges Leben gliedert sich dabei in 3 Teile: Mensch - Stadt - Welt.",
+        "eng": "What would you see and experience if the clocks rolled forward 50 years? In a unique blend of drama and science, this three-part series shows you the world of tomorrow. Will we have flying cars? Will advances in medicine help us stay young forever? What about \"printing\" custom-made vital organs? What will our cities look like? What will tomorrow's wars be about? Will we have robots helping around the house? Will solar power be the new oil?\r\n\r\nSupported by the world's leading scientists and research institutes, we embark on a quest to answer some of society's most fundamental questions and reveal the dramas of tomorrow's world along the way. State-of-the-art computer graphics in combination with a dynamic story line will create a world usually only seen in feature films, but with the accuracy and relevance of a documentary. This series is all about opening the window of our future based on science fact, not science fiction.",
+        "fra": "De quoi sera fait notre monde dans 50 ans ? C'est la question Ã  laquelle tente de rÃ©pondre le spÃ©cialiste de la physique thÃ©orique Michio Kaku.",
+        "rus": "Ð§ÑÐ¾ Ð¼Ñ ÑÐ¼Ð¾Ð¶ÐµÐ¼ ÑÐ²Ð¸Ð´ÐµÑÑ ÐµÑÐ»Ð¸ Ð¿ÐµÑÐµÐ²ÐµÑÑÐ¸ ÑÐ°ÑÑ Ð½Ð° 50 Ð»ÐµÑ Ð²Ð¿ÐµÑÐµÐ´? Ð ÑÐ½Ð¸ÐºÐ°Ð»ÑÐ½Ð¾Ð¹ ÑÐ¼ÐµÑÐ¸ Ð¸ÑÐºÑÑÑÑÐ²Ð° Ð¸ Ð½Ð°ÑÐºÐ¸, ÑÑÐµÑÑÐµÑÐ¸Ð¹Ð½ÑÐ¹ ÑÐ¸Ð»ÑÐ¼ Ð¿Ð¾ÐºÐ°Ð¶ÐµÑ Ð¼Ð¸Ñ Ð±ÑÐ´ÑÑÐµÐ³Ð¾. ÐÑÐ´ÐµÐ¼ Ð»Ð¸ Ð¼Ñ Ð¸Ð¼ÐµÑÑ Ð»ÐµÑÐ°ÑÑÐ¸Ðµ Ð°Ð²ÑÐ¾Ð¼Ð¾Ð±Ð¸Ð»Ð¸? ÐÐ¾Ð·Ð²Ð¾Ð»Ð¸Ñ Ð»Ð¸ Ð¼ÐµÐ´Ð¸ÑÐ¸Ð½Ð° Ð¾ÑÑÐ°Ð²Ð°ÑÑÑÑ Ð²ÐµÑÐ½Ð¾ Ð¼Ð¾Ð»Ð¾Ð´ÑÐ¼Ð¸? Ð§ÑÐ¾ Ð½Ð°ÑÑÐµÑ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÐºÐ¾Ð¿Ð¸Ð¹ Ð¶Ð¸Ð·Ð½ÐµÐ½Ð½Ð¾ Ð²Ð°Ð¶Ð½ÑÑ Ð¾ÑÐ³Ð°Ð½Ð¾Ð²? ÐÐ°Ðº Ð±ÑÐ´ÑÑ Ð²ÑÐ³Ð»ÑÐ´ÐµÑÑ Ð½Ð°ÑÐ¸ Ð³Ð¾ÑÐ¾Ð´Ð°? Ð ÐºÐ°Ðº Ð±ÑÐ´ÑÑ Ð²ÑÐ³Ð»ÑÐ´ÐµÑÑ Ð²Ð¾Ð¹Ð½Ñ? ÐÑÐ´ÑÑ Ð»Ð¸ ÑÐ¾Ð±Ð¾ÑÑ Ð¿Ð¾Ð¼Ð¾Ð³Ð°ÑÑ Ð² Ð´Ð¾Ð¼Ð°ÑÐ½Ð¸Ñ Ð´ÐµÐ»Ð°Ñ? Ð¡ÑÐ°Ð½ÐµÑ Ð»Ð¸ ÑÐ¾Ð»Ð½ÑÐµ Ð·Ð°Ð¼ÐµÐ½Ð¸ÑÐµÐ»ÐµÐ¼ Ð½ÐµÑÑÐ¸?"
+      },
+      "translations": {
+        "deu": "2057 - Unser Leben in der Zukunft",
+        "eng": "Discovery 2057",
+        "fra": "Le Monde de demain",
+        "rus": "2057"
+      },
+      "remote_ids": [
+        {
+          "id": "tt0977682",
+          "type": 2,
+          "sourceName": "IMDB"
+        }
+      ],
+      "thumbnail": "https://artworks.thetvdb.com/banners/posters/79816-1_t.jpg"
+    },
+    {
+      "objectID": "series-104511",
+      "id": "series-104511",
+      "image_url": "https://artworks.thetvdb.com/banners/posters/104511-1.jpg",
+      "name": "Discovery Channel: Science",
+      "first_air_time": "1999-08-22",
+      "overview": "A Discovery Channel presentation featuring the how's and why's of science on a range of related topics.",
+      "primary_language": "eng",
+      "primary_type": "series",
+      "status": "Ended",
+      "type": "series",
+      "tvdb_id": "104511",
+      "year": "1999",
+      "slug": "discovery-channel-science",
+      "overviews": {
+        "eng": "A Discovery Channel presentation featuring the how's and why's of science on a range of related topics."
+      },
+      "translations": {
+        "eng": "Discovery Channel: Science"
+      },
+      "thumbnail": "https://artworks.thetvdb.com/banners/posters/104511-1_t.jpg"
+    }
+  ],
+  "links": {
+    "prev": null,
+    "self": "https://api4.thetvdb.com/v4/search?query=discover\u0026type=series\u0026limit=10\u0026page=0",
+    "next": "https://api4.thetvdb.com/v4/search?query=discover\u0026type=series\u0026limit=10\u0026page=1",
+    "total_items": 381,
+    "page_size": 10
+  }
+}
