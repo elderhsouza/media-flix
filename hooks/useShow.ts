@@ -1,4 +1,5 @@
 import useSWR from "swr"
+import { SWRHookResponse } from "../lib/types/swr-hook-response"
 
 type SeasonResponse = {
   id: number,
@@ -22,12 +23,6 @@ export type Show = {
   overview: string,
   seasons: Season[],
   seasonCount: number,
-}
-
-export interface SWRHookResponse<T> {
-  data: T;
-  isError: boolean;
-  isLoading: boolean;
 }
 
 function buildSeasons(seasons: SeasonResponse[]): Season[] {
