@@ -1,8 +1,9 @@
 import type { ReactElement } from 'react'
 import { Navbar, Nav, Grid, Row, Col } from 'rsuite';
 import PlayOutlineIcon from '@rsuite/icons/PlayOutline';
-import ListIcon from '@rsuite/icons/List';
-import SearchBar from './SearchBar';
+import { FiStar } from "react-icons/fi"
+import SearchBar from '../components/SearchBar';
+import Link from 'next/link';
 
 export default function Layout({ children }: { children: ReactElement }) {
   return (
@@ -12,9 +13,9 @@ export default function Layout({ children }: { children: ReactElement }) {
         <Grid fluid>
           <Row>
             <Col xs={8}>
-              <Navbar.Brand><PlayOutlineIcon /> MediaFlix</Navbar.Brand>
               <Nav>
-                <Nav.Item icon={<ListIcon />}>My Media</Nav.Item>
+                <Nav.Item icon={<PlayOutlineIcon />}><Link href="/">MediaFlix</Link></Nav.Item>
+                <Nav.Item icon={<FiStar />}>Favorites</Nav.Item>
               </Nav>
             </Col>
             <Col xs={16}>
