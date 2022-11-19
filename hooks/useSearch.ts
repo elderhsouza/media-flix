@@ -1,5 +1,5 @@
 import useSWR from "swr"
-import type { SWRHookResponse } from "../lib/types/swr-hook-response"
+import type { SWRHookResponse } from "../lib/types/SWRHookResponse"
 
 // type SeasonResponse = {
 //   id: number,

@@ -1,5 +1,5 @@
 import useSWR from "swr"
-import { SWRHookResponse } from "../lib/types/swr-hook-response"
+import { SWRHookResponse } from "../lib/types/SWRHookResponse"
 
 export type Episode = {
   id: number,
