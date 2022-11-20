@@ -2,9 +2,13 @@ import Image from "next/image";
 import { ReactElement } from "react";
 import { Show } from "../hooks/useShow";
 import FavoriteButton from "./input/FavoriteButton";
-import styles from './ShowInfo.module.css'
+import styles from "./ShowInfo.module.css";
 
-function ShowInfo({show}: {show: Show}): ReactElement {
+interface ShowProps {
+  show: Show;
+}
+
+function ShowInfo({ show }: ShowProps): ReactElement {
   return (
     <section className={styles.showInfo}>
       <h1>{show.name}</h1>

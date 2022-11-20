@@ -1,6 +1,6 @@
 
 export type SWRHookResponse<T> = {
-  data: T | [] | undefined;
+  data: T;
   isError: boolean;
   isLoading: boolean;
 };

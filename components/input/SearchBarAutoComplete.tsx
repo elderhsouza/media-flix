@@ -52,7 +52,7 @@ function SearchBar(): ReactElement {
 
     if (searchBarValue.length >= 3) {
       try {
-        setSearchResults((await throttledSearch(value)) as any);
+        setSearchResults((await throttledSearch(value) as any));
       } catch (error) {
         console.error(error);
       }

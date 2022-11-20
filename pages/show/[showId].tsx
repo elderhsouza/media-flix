@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useRouter } from "next/router";
 import { Affix, Button, Col, Grid, List, Row } from "rsuite";
-import useShow from "../../hooks/useShow";
+import useShow, { Show } from "../../hooks/useShow";
 import Episodes from "../../components/Episodes";
 import ShowInfo from "../../components/ShowInfo";
 

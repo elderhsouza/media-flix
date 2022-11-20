@@ -53,7 +53,7 @@ export default function useShow(showId: string): SWRHookResponse<Show> {
   const { data, error } = useSWR<Show>(`/api/shows/${showId}`)
 
   return {
-    data: data && buildShow(data),
+    data: buildShow(data),
     isLoading: !error && !data,
     isError: error
   }
