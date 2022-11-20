@@ -15,6 +15,7 @@ export type Season = {
 }
 
 export type Show = {
+  id: string,
   name: string,
   image: string,
   firstAired: string,
@@ -32,10 +33,11 @@ function buildSeasons(seasons: SeasonResponse[]): Season[] {
 }
 
 function buildShow(show: any): Show {
-  const { name, image, firstAired, lastAired, status, overview, seasons } = show;
+  const { id, name, image, firstAired, lastAired, status, overview, seasons } = show;
   const builtSeasons = buildSeasons(seasons);
 
   return Object.freeze({
+    id,
     name,
     image,
     firstAired,
@@ -47,7 +49,7 @@ function buildShow(show: any): Show {
   });
 }
 
-export default function useShow(showId: string): SWRHookResponse<Show | undefined> {
+export default function useShow(showId: string): SWRHookResponse<Show> {
   const { data, error } = useSWR<Show>(`/api/shows/${showId}`)
 
   return {

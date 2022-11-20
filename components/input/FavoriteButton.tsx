@@ -15,8 +15,8 @@ function FavoriteButton({ showId }: {showId: string}): ReactElement {
     <Button
       appearance="primary"
       color={isFavorite ? "blue" : "green"}
-      onClick={onFavoriteButtonClick}
       style={{ width: 100, textAlign: "start" }}
+      onClick={onFavoriteButtonClick}
     >
       <FiStar /> {isFavorite ? "Remove" : "Add"}
     </Button>

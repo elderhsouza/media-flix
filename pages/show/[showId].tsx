@@ -1,15 +1,14 @@
-import { ReactElement, Suspense, useState } from "react";
-import Image from "next/image";
+import { useState } from "react";
 import { useRouter } from "next/router";
-import { Button, Col, Grid, List, Loader, Row } from "rsuite";
+import { Affix, Button, Col, Grid, List, Row } from "rsuite";
 import useShow from "../../hooks/useShow";
 import Episodes from "../../components/Episodes";
-import useEpisodes from "../../hooks/useEpisodes";
+import ShowInfo from "../../components/ShowInfo";
 
-function Page(): ReactElement {
+function Show() {
   const router = useRouter();
   const { showId } = router.query;
-  const { data: show } = useShow(String(showId));
+  const { data: show } = useShow(showId as string);
   const [seasonId, setSeasonId] = useState<number>();
 
   if (!show) {
@@ -21,30 +20,30 @@ function Page(): ReactElement {
   }
 
   return (
-    <Suspense fallback={<Loader />}>
-      <h1>{show.name}</h1>
-      <Image alt={show.name} src={show.image} width={500} height={735} />
-      <h2>Seasons</h2>
+    <>
+      <ShowInfo show={show} />
+
+      {/* <h2>Seasons</h2>
       <Grid fluid>
         <Row>
           <Col xs={3}>
-          <List>
-            {show.seasons.map((season) => (
-              <List.Item key={season.id}>
-                <Button appearance="link" onClick={() => onSeasonClick(season.id)}>Season {season.number}</Button>
-              </List.Item>
-            ))}
-          </List>
-        </Col>
-        <Col xs={16}>
-          <Episodes seasonId={seasonId || show.seasons[0].id} />
-        </Col>
+            <Affix>
+              <List>
+                {show.seasons.map((season) => (
+                  <List.Item key={season.id}>
+                    <Button appearance="link" onClick={() => onSeasonClick(season.id)}>Season {season.number}</Button>
+                  </List.Item>
+                ))}
+              </List>
+            </Affix>
+          </Col>
+          <Col xs={21}>
+            <Episodes seasonId={seasonId || show.seasons[0].id} />
+          </Col>
         </Row>
-      </Grid>
-
-      {/* <pre>{JSON.stringify(show, null, 2)}</pre> */}
-    </Suspense>
+      </Grid> */}
+    </>
   );
 }
 
-export default Page;
+export default Show;

@@ -1,4 +1,5 @@
 import { ReactElement } from "react";
+import { List } from "rsuite";
 import useEpisodes, { Episode } from "../hooks/useEpisodes";
 
 function Episodes({seasonId}: {seasonId: number}): ReactElement {
@@ -9,15 +10,15 @@ function Episodes({seasonId}: {seasonId: number}): ReactElement {
   }
 
   return (
-    <>
+    <List>
       {episodes.map((episode: Episode) => (
-        <div key={episode.id}>
+        <List.Item key={episode.id}>
           <h4>{episode.name}</h4>
           <p>{episode.aired}</p>
           <p>{episode.overview}</p>
-        </div>
+        </List.Item>
       ))}
-    </>
+    </List>
   )
 }
 

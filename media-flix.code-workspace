@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "typescript.extension.sortImports.sortMethod": "path",
+    "typescript.extension.sortImports.pathSortOrder": [
+      "package",
+      "relativeDownLevel",
+      "relativeUpLevel"
+    ],
+    "typescript.extension.sortImports.maxNamedImportsInSingleLine": 5,
+    "typescript.extension.sortImports.quoteStyle": "double"
+  }
+}

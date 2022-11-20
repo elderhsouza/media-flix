@@ -1,9 +1,9 @@
-import 'rsuite/dist/rsuite.min.css';
-import '../styles/globals.css'
-import { AppProps } from 'next/app';
-import Head from 'next/head'
-import { SWRConfig } from 'swr';
-import Layout from './layout'
+import Head from "next/head";
+import Layout from "./layout";
+import { AppProps } from "next/app";
+import { SWRConfig } from "swr";
+import "../styles/globals.css";
+import "rsuite/dist/rsuite.min.css";
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -14,11 +14,13 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <Layout>
         <SWRConfig
           value={{
-            fetcher: (resource, init) => fetch(resource, init).then(res => res.json())
-        }}>
+            fetcher: (resource, init) =>
+              fetch(resource, init).then((res) => res.json()),
+          }}
+        >
           <Component {...pageProps} />
         </SWRConfig>
       </Layout>
     </>
-  )
+  );
 }
