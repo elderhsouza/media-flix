@@ -5,7 +5,7 @@ import useShow, { Show } from "../../hooks/useShow";
 import Episodes from "../../components/Episodes";
 import ShowInfo from "../../components/ShowInfo";
 
-function Show() {
+function ShowPage() {
   const router = useRouter();
   const { showId } = router.query;
   const { data: show } = useShow(showId as string);
@@ -46,4 +46,4 @@ function Show() {
   );
 }
 
-export default Show;
+export default ShowPage;
