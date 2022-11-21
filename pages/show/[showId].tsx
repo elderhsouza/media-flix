@@ -1,21 +1,28 @@
-import { useState } from "react";
 import { useRouter } from "next/router";
-import { Affix, Button, Col, Grid, List, Row } from "rsuite";
-import useShow, { Show } from "../../hooks/useShow";
+import { useState } from "react";
+import {
+  Affix,
+  Button,
+  Col,
+  Grid,
+  List,
+  Row
+  } from "rsuite";
 import Episodes from "../../components/Episodes";
 import ShowInfo from "../../components/ShowInfo";
+import useShow from "../../hooks/useShow";
 
 function ShowPage() {
   const router = useRouter();
   const { showId } = router.query;
   const { data: show } = useShow(showId as string);
-  const [seasonId, setSeasonId] = useState<number>();
+  const [seasonId, setSeasonId] = useState<string>();
 
   if (!show) {
     return <div>Loading...</div>;
   }
 
-  function onSeasonClick(season: number) {
+  function onSeasonClick(season: string) {
     setSeasonId(season);
   }
 
@@ -23,7 +30,7 @@ function ShowPage() {
     <>
       <ShowInfo show={show} />
 
-      {/* <h2>Seasons</h2>
+      <h2>Seasons</h2>
       <Grid fluid>
         <Row>
           <Col xs={3}>
@@ -31,7 +38,12 @@ function ShowPage() {
               <List>
                 {show.seasons.map((season) => (
                   <List.Item key={season.id}>
-                    <Button appearance="link" onClick={() => onSeasonClick(season.id)}>Season {season.number}</Button>
+                    <Button
+                      appearance="link"
+                      onClick={() => onSeasonClick(season.id)}
+                    >
+                      Season {season.number}
+                    </Button>
                   </List.Item>
                 ))}
               </List>
@@ -41,7 +53,7 @@ function ShowPage() {
             <Episodes seasonId={seasonId || show.seasons[0].id} />
           </Col>
         </Row>
-      </Grid> */}
+      </Grid>
     </>
   );
 }

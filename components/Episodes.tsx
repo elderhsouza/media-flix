@@ -1,8 +1,13 @@
 import { ReactElement } from "react";
 import { List } from "rsuite";
-import useEpisodes, { Episode } from "../hooks/useEpisodes";
+import useEpisodes from "../hooks/useEpisodes";
+import { Episode } from "../lib/types/Episode";
 
-function Episodes({seasonId}: {seasonId: number}): ReactElement {
+interface EpisodesProps {
+  seasonId: string;
+}
+
+function Episodes({ seasonId }: EpisodesProps): ReactElement {
   const { data: episodes } = useEpisodes(seasonId);
 
   if (!episodes) {
@@ -19,7 +24,7 @@ function Episodes({seasonId}: {seasonId: number}): ReactElement {
         </List.Item>
       ))}
     </List>
-  )
+  );
 }
 
 export default Episodes;

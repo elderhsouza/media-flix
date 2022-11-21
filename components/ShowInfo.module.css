@@ -1,4 +1,29 @@
 
 .showInfo {
-  background-color: #ddd;
+  margin-bottom: 1rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.main {
+  display: flex;
+}
+
+.image {
+  max-width: 300px;
+  margin-right: 1rem;
+}
+
+.overview {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
 }

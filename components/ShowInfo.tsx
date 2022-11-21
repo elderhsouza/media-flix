@@ -1,25 +1,39 @@
 import Image from "next/image";
 import { ReactElement } from "react";
-import { Show } from "../hooks/useShow";
 import FavoriteButton from "./input/FavoriteButton";
 import styles from "./ShowInfo.module.css";
+import { Show } from "../lib/types/Show";
 
 interface ShowProps {
   show: Show;
 }
 
-function ShowInfo({ show }: ShowProps): ReactElement {
+function ShowInfo({
+  show: { id, overview, name, image, firstAired, lastAired, status },
+}: ShowProps): ReactElement {
   return (
     <section className={styles.showInfo}>
-      <h1>{show.name}</h1>
-      <ul>
-        <li>First Aired: {show.firstAired}</li>
-        <li>Last Aired: {show.lastAired}</li>
-        <li>Status: {show.status}</li>
-      </ul>
-      <Image alt={show.name} src={show.image} width={300} height={441} />
-      <p>{show.overview}</p>
-      <FavoriteButton showId={show.id}></FavoriteButton>
+      <header className={styles.header}>
+        <h2 className={styles.name}>{name}</h2>
+        <FavoriteButton showId={id}></FavoriteButton>
+      </header>
+      <div className={styles.main}>
+        <Image
+          className={styles.image}
+          alt={name}
+          src={image}
+          width={300}
+          height={441}
+        />
+        <div>
+          <p className={styles.overview}>{overview}</p>
+          <ul>
+            <li>First Aired: {firstAired}</li>
+            <li>Last Aired: {lastAired}</li>
+            <li>Status: {status}</li>
+          </ul>
+        </div>
+      </div>
     </section>
   );
 }

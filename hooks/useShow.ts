@@ -1,72 +1,39 @@
 import useSWR from "swr";
+import { Season, SeasonResponse } from "../lib/types/Season";
+import { Show, ShowResponse } from "../lib/types/Show";
 import type { SWRHookResponse } from "../lib/types/SWRHookResponse";
-
-type SeasonResponse = {
-  id: number;
-  type: { type: string };
-  number: number;
-  image: string;
-};
-
-export type Season = {
-  id: number;
-  number: number;
-  image: string;
-};
-
-type ShowResponse = {
-  tvdb_id: string;
-  name: string;
-  image: string;
-  firstAired: string;
-  lastAired: string;
-  overview: string;
-  status: { name: string };
-  seasons: [];
-};
-
-export type Show = {
-  id: string;
-  name: string;
-  image: string;
-  firstAired: string;
-  lastAired: string;
-  overview: string;
-  status: string;
-  seasons: Season[];
-  seasonCount: number;
-};
 
 function buildSeasons(seasons: SeasonResponse[]): Season[] {
   return seasons
-    .filter(
-      (season: SeasonResponse) =>
-        season.type.type === "official" && season.number > 0
-    )
-    .map(({ id, number, image }: SeasonResponse) => ({ id, number, image }));
+    .filter((season) => season.type.type === "official" && season.number > 0)
+    .map(({ id, number, image, type }) => ({
+      id,
+      number,
+      image,
+      type: type.type,
+    }));
 }
 
-function buildShow(show: ShowResponse): Show {
-  const {
-    tvdb_id,
-    name,
-    image,
-    firstAired,
-    lastAired,
-    status,
-    overview,
-    seasons,
-  } = show;
+function buildShow({
+  id,
+  name,
+  overview,
+  image,
+  status,
+  firstAired,
+  lastAired,
+  seasons,
+}: ShowResponse): Show {
   const builtSeasons = buildSeasons(seasons);
 
   return Object.freeze({
+    id,
     name,
     image,
     firstAired,
     lastAired,
-    id: tvdb_id,
+    overview,
     status: status.name,
-    overview: overview,
     seasons: builtSeasons,
     seasonCount: builtSeasons.length,
   });

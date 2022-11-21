@@ -3,7 +3,13 @@ import { FiStar } from "react-icons/fi";
 import { Button } from "rsuite";
 import useFavorites from "../../hooks/useFavorites";
 
-function FavoriteButton({ showId }: {showId: string}): ReactElement {
+interface FavoriteButtonProps {
+  showId: string;
+}
+
+function FavoriteButton({
+  showId
+}: FavoriteButtonProps): ReactElement {
   const [favorites, favoritesActions] = useFavorites();
   const isFavorite = favorites.includes(showId);
 
@@ -14,7 +20,7 @@ function FavoriteButton({ showId }: {showId: string}): ReactElement {
   return (
     <Button
       appearance="primary"
-      color={isFavorite ? "blue" : "green"}
+      color={isFavorite ? "red" : "green"}
       style={{ width: 100, textAlign: "start" }}
       onClick={onFavoriteButtonClick}
     >
