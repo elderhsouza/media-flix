@@ -27,3 +27,12 @@
   font-size: 1.5rem;
   margin-bottom: 2rem;
 }
+
+.infoList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.infoList li {
+  margin-bottom: 1rem;
+}

@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import React, { useState } from "react";
 import { Affix, Button, Col, Grid, List, Row } from "rsuite";
-import Episodes from "../../components/Episodes";
+import EpisodesList from "../../components/EpisodesList";
 import ShowInfo from "../../components/ShowInfo";
 import useShow from "../../hooks/useShow";
 
@@ -27,15 +27,15 @@ function ShowPage() {
     <>
       <ShowInfo show={show} />
       <h2>Seasons</h2>
-      <Grid fluid>
+      <Grid fluid style={{marginTop: "1.5rem"}}>
         <Row>
           <Col xs={3}>
             <Affix>
               <List>
                 {show.seasons.map((season) => (
                   <List.Item key={season.id}>
-                    <Button
-                      appearance="link"
+                    <Button style={{border: "none"}}
+                      appearance="ghost"
                       onClick={() => onSeasonClick(season.id)}
                     >
                       Season {season.number}
@@ -46,7 +46,7 @@ function ShowPage() {
             </Affix>
           </Col>
           <Col xs={21}>
-            <Episodes seasonId={seasonId || show.seasons[0].id} />
+            <EpisodesList seasonId={seasonId || show.seasons[0].id} />
           </Col>
         </Row>
       </Grid>

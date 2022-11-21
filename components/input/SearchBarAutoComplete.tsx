@@ -3,7 +3,7 @@ import { throttle } from "lodash";
 import Image from "next/image";
 import { useRouter } from "next/router";
 import React, { ReactElement, ReactNode, useState } from "react";
-import { AutoComplete, InputGroup } from "rsuite";
+import { AutoComplete, InputGroup, Placeholder } from "rsuite";
 import type { SearchResult } from "../../lib/types/SearchResult";
 
 async function search(query: string): Promise<SearchResult[]> {
@@ -28,7 +28,11 @@ function renderMenuItem(
 ): ReactNode {
   return (
     <div>
-      {thumbnail && <Image src={thumbnail} alt={name} width={20} height={29} />}
+      {thumbnail ? (
+        <Image src={thumbnail} alt={name} width={20} height={29} style={{marginRight: "1rem"}} />
+      ) : (
+        <Placeholder.Graph style={{ width: 20, height: 29 }} />
+      )}
       {name}
     </div>
   );

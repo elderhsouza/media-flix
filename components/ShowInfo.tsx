@@ -3,6 +3,7 @@ import { ReactElement } from "react";
 import FavoriteButton from "./input/FavoriteButton";
 import styles from "./ShowInfo.module.css";
 import { Show } from "../lib/types/Show";
+import formatDate from "../lib/format.date";
 
 interface ShowProps {
   show: Show;
@@ -27,9 +28,9 @@ function ShowInfo({
         />
         <div>
           <p className={styles.overview}>{overview}</p>
-          <ul>
-            <li>First Aired: {firstAired}</li>
-            <li>Last Aired: {lastAired}</li>
+          <ul className={styles.infoList}>
+            <li>First Aired: {formatDate(firstAired)}</li>
+            <li>Last Aired: {formatDate(lastAired)}</li>
             <li>Status: {status}</li>
           </ul>
         </div>

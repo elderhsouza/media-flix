@@ -2,7 +2,7 @@ import { useCallback } from "react";
 import { useLocalStorage } from "usehooks-ts";
 
 interface Actions {
-  has: (v: string) => boolean;
+  includes: (v: string) => boolean;
   add: (v: string) => void;
   remove: (v: string) => void;
   toggle: (v: string) => void;
@@ -16,7 +16,7 @@ export default function useFavorites(): UseFavorites {
     []
   );
 
-  const has = useCallback((showId: string) => {
+  const includes = useCallback((showId: string) => {
     return storedFavorites.includes(showId);
   }, [storedFavorites]);
 
@@ -43,7 +43,7 @@ export default function useFavorites(): UseFavorites {
   }, [add, remove, storedFavorites]);
 
   const actions: Actions = {
-    has,
+    includes,
     add,
     remove,
     toggle,

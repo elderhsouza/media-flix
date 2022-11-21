@@ -1,0 +1,18 @@
+
+.episode {
+  /* background-color: #eee; */
+  padding: 1rem;
+}
+
+.header {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.image {
+  margin-right: 2rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
