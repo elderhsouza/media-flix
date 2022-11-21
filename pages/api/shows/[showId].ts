@@ -1,4 +1,26 @@
 import type { NextApiRequest, NextApiResponse } from "next";
+import { SeasonResponse, Season } from "../../../lib/types/Season";
+import { Show, ShowResponse } from "../../../lib/types/Show";
+
+function buildSeasons(seasons: SeasonResponse[]): Season[] {
+  return seasons
+    .filter((season) => season.type.type === "official" && season.number > 0)
+    .map((season) => ({
+      ...season,
+      type: season.type.type,
+    }));
+}
+
+function buildShow(show: ShowResponse): Show {
+  const builtSeasons = buildSeasons(show.seasons);
+
+  return Object.freeze({
+    ...show,
+    status: show.status.name,
+    seasons: builtSeasons,
+    seasonCount: builtSeasons.length,
+  });
+}
 
 export default async function handler(
   req: NextApiRequest,
@@ -18,7 +40,7 @@ export default async function handler(
       .then((res) => res.json())
       .then((res) => res.data);
 
-    res.status(200).json(show);
+    res.status(200).json(buildShow(show));
   } catch (error) {
     res.status(500).json(error);
   }

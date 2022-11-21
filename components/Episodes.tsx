@@ -11,7 +11,7 @@ function Episodes({ seasonId }: EpisodesProps): ReactElement {
   const { data: episodes } = useEpisodes(seasonId);
 
   if (!episodes) {
-    return <div>Loading...</div>;
+    return <>Loading...</>;
   }
 
   return (

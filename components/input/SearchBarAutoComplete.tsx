@@ -12,13 +12,11 @@ async function search(query: string): Promise<SearchResult[]> {
   )
     .then((res) => res.json())
     .then((res) =>
-      res.map(({ tvdb_id, name, thumbnail }: SearchResult) => {
+      res.map((result: SearchResult) => {
         return {
-          tvdb_id,
-          name,
-          thumbnail,
-          label: name,
-          value: tvdb_id,
+          ...result,
+          label: result.name,
+          value: result.tvdb_id,
         };
       })
     );
@@ -52,7 +50,7 @@ function SearchBar(): ReactElement {
 
     if (searchBarValue.length >= 3) {
       try {
-        setSearchResults((await throttledSearch(value) as any));
+        setSearchResults((await throttledSearch(value)) as any);
       } catch (error) {
         console.error(error);
       }

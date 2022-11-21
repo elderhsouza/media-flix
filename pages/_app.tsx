@@ -1,13 +1,14 @@
-import Head from "next/head";
-import Layout from "./layout";
 import { AppProps } from "next/app";
+import Head from "next/head";
+import React from "react";
 import { SWRConfig } from "swr";
-import "../styles/globals.css";
+import Layout from "./layout";
 import "rsuite/dist/rsuite.min.css";
+import "../styles/globals.css";
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <>
+    <React.StrictMode>
       <Head>
         <title>Media Flix</title>
       </Head>
@@ -21,6 +22,6 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           <Component {...pageProps} />
         </SWRConfig>
       </Layout>
-    </>
+    </React.StrictMode>
   );
 }

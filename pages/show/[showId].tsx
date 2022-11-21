@@ -1,13 +1,6 @@
 import { useRouter } from "next/router";
-import { useState } from "react";
-import {
-  Affix,
-  Button,
-  Col,
-  Grid,
-  List,
-  Row
-  } from "rsuite";
+import React, { useState } from "react";
+import { Affix, Button, Col, Grid, List, Row } from "rsuite";
 import Episodes from "../../components/Episodes";
 import ShowInfo from "../../components/ShowInfo";
 import useShow from "../../hooks/useShow";
@@ -15,11 +8,15 @@ import useShow from "../../hooks/useShow";
 function ShowPage() {
   const router = useRouter();
   const { showId } = router.query;
-  const { data: show } = useShow(showId as string);
+  const { data: show, isError } = useShow(showId as string);
   const [seasonId, setSeasonId] = useState<string>();
 
+  if (isError) {
+    return <div>Failed to load</div>;
+  }
+
   if (!show) {
-    return <div>Loading...</div>;
+    return <>Loading...</>;
   }
 
   function onSeasonClick(season: string) {
@@ -29,7 +26,6 @@ function ShowPage() {
   return (
     <>
       <ShowInfo show={show} />
-
       <h2>Seasons</h2>
       <Grid fluid>
         <Row>

@@ -1,17 +1,17 @@
 
 .showInfo {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 3rem;
 }
 
 .name {
   font-size: 3rem;
-  margin-bottom: 1rem;
 }
 
 .main {
@@ -20,10 +20,10 @@
 
 .image {
   max-width: 300px;
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 .overview {
   font-size: 1.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }

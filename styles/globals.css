@@ -14,17 +14,20 @@ a {
 * {
   font-size: 16px;
   box-sizing: border-box;
+  /* border: 1px solid red; */
 }
 
 .container {
-  width: 100vw;
-  padding: 1.5rem;
+  max-width: 1200px;
+  padding: 2rem;
+  margin: 0 auto;
 }
 
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
+
   body {
     color: white;
     background: black;
