@@ -1,10 +1,10 @@
-import type { NextApiRequest, NextApiResponse } from "next";
-import { SeasonResponse, Season } from "../../../lib/types/Season";
-import { Show, ShowResponse } from "../../../lib/types/Show";
+import type { NextApiRequest, NextApiResponse } from 'next';
+import { SeasonResponse, Season } from '../../../lib/types/Season';
+import { Show, ShowResponse } from '../../../lib/types/Show';
 
 function buildSeasons(seasons: SeasonResponse[]): Season[] {
   return seasons
-    .filter((season) => season.type.type === "official" && season.number > 0)
+    .filter((season) => season.type.type === 'official' && season.number > 0)
     .map((season) => ({
       ...season,
       type: season.type.type,

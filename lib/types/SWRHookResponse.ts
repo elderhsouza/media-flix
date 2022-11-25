@@ -1,6 +1,7 @@
+import { SWRResponse } from 'swr';
 
-export type SWRHookResponse<T> = {
-  data: T | undefined;
+export interface SWRHookResponse<DataType> extends Partial<SWRResponse<DataType>> {
+  data: DataType;
   isError: boolean;
   isLoading: boolean;
-};
+}
