@@ -1,18 +1,18 @@
-import { Season } from "./Season";
+import type { Season } from './Season';
 
-export type ShowResponse = {
-  id: string;
-  name: string;
-  image: string;
-  firstAired: string;
-  lastAired: string;
-  overview: string;
-  status: { name: string };
-  seasons: [];
-};
+export interface ShowResponse {
+  readonly id: string;
+  readonly name: string;
+  readonly image: string;
+  readonly firstAired: string;
+  readonly lastAired: string;
+  readonly overview: string;
+  readonly status: { name: string };
+  readonly seasons: [];
+}
 
-export type Show = Omit<ShowResponse, "status" | "seasons"> & {
-  status: string;
-  seasons: Season[];
-  seasonCount: number;
+export type Show = Omit<ShowResponse, 'status' | 'seasons'> & {
+  readonly status: string;
+  readonly seasons: Season[];
+  readonly seasonCount: number;
 };

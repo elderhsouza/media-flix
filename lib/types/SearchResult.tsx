@@ -1,4 +1,4 @@
-import { ItemDataType } from "rsuite/esm/@types/common";
+import { ItemDataType } from 'rsuite/esm/@types/common';
 
 export type SearchResult =
   | ItemDataType
