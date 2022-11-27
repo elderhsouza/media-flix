@@ -1,4 +1,5 @@
-import useFavorites from "../../hooks/useFavorites";
+import Link from 'next/link';
+import useFavorites from '../../hooks/useFavorites';
 
 function FavoritesPage() {
   const [favorites] = useFavorites();
@@ -6,9 +7,17 @@ function FavoritesPage() {
   return (
     <>
       <h1>My Favorite Shows</h1>
-      <pre>{JSON.stringify(favorites, null, 2)}</pre>
+      <ul>
+        {favorites.map(favorite => {
+          return (
+            <li key={favorite}>
+              <Link  href={`/show/${favorite}`}>{favorite}</Link>
+            </li>
+          );
+        })}
+      </ul>
     </>
-  )
+  );
 }
 
 export default FavoritesPage;

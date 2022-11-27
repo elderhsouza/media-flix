@@ -1,14 +1,13 @@
-import { AppProps } from "next/app";
-import Head from "next/head";
-import React from "react";
-import { SWRConfig } from "swr";
-import Layout from "./layout";
-import "rsuite/dist/rsuite.min.css";
-import "../styles/globals.css";
+import { AppProps } from 'next/app';
+import Head from 'next/head';
+import 'rsuite/dist/rsuite.min.css';
+import { SWRConfig } from 'swr';
+import '../styles/globals.css';
+import Layout from './layout';
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <React.StrictMode>
+    <>
       <Head>
         <title>Media Flix</title>
       </Head>
@@ -17,11 +16,12 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           value={{
             fetcher: (resource, init) =>
               fetch(resource, init).then((res) => res.json()),
+            refreshInterval: 2160000
           }}
         >
           <Component {...pageProps} />
         </SWRConfig>
       </Layout>
-    </React.StrictMode>
+    </>
   );
 }
