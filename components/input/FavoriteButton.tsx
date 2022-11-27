@@ -1,7 +1,7 @@
-import { ReactElement } from "react";
-import { FiStar } from "react-icons/fi";
-import { Button } from "rsuite";
-import useFavorites from "../../hooks/useFavorites";
+import { ReactElement } from 'react';
+import { FiStar } from 'react-icons/fi';
+import { Button } from 'rsuite';
+import useFavorites from '../../hooks/useFavorites';
 
 interface FavoriteButtonProps {
   showId: string;
@@ -20,11 +20,11 @@ function FavoriteButton({
   return (
     <Button
       appearance="primary"
-      color={isFavorite ? "red" : "green"}
-      style={{ width: 100, textAlign: "start" }}
+      color={isFavorite ? 'red' : 'green'}
+      style={{ width: 100, textAlign: 'start' }}
       onClick={onFavoriteButtonClick}
     >
-      <FiStar /> {isFavorite ? "Remove" : "Add"}
+      <FiStar /> {isFavorite ? 'Remove' : 'Add'}
     </Button>
   );
 }

@@ -1,10 +1,10 @@
-import Image from "next/image";
-import { ReactElement } from "react";
-import { List } from "rsuite";
-import useEpisodes from "../hooks/useEpisodes";
-import formatDate from "../lib/format.date";
-import { Episode } from "../lib/types/Episode";
-import styles from "./EpisodesList.module.css";
+import Image from 'next/image';
+import { ReactElement } from 'react';
+import { List } from 'rsuite';
+import useEpisodes from '../hooks/useEpisodes';
+import formatDate from '../lib/format.date';
+import { Episode } from '../lib/types/Episode';
+import styles from './EpisodesList.module.css';
 
 interface EpisodesProps {
   seasonId: string;
@@ -18,7 +18,7 @@ function Episodes({ seasonId }: EpisodesProps): ReactElement {
   }
 
   return (
-    <List style={{ marginLeft: "2rem" }}>
+    <List style={{ marginLeft: '2rem' }}>
       {episodes.map((episode: Episode) => (
         <List.Item key={episode.id}>
           <div className={styles.episode}>

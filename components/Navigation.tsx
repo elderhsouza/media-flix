@@ -1,9 +1,9 @@
-import PlayOutlineIcon from "@rsuite/icons/PlayOutline";
-import { useRouter } from "next/router";
-import { ReactElement } from "react";
-import { FiStar } from "react-icons/fi";
-import { Navbar, Grid, Row, Col, Nav } from "rsuite";
-import SearchBarAutoComplete from "./input/SearchBarAutoComplete";
+import PlayOutlineIcon from '@rsuite/icons/PlayOutline';
+import { useRouter } from 'next/router';
+import { ReactElement } from 'react';
+import { FiStar } from 'react-icons/fi';
+import { Navbar, Grid, Row, Col, Nav } from 'rsuite';
+import SearchBarAutoComplete from './input/SearchBarAutoComplete';
 
 function Navigation(): ReactElement {
   const router = useRouter();
