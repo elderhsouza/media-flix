@@ -1,0 +1,4449 @@
+{
+  "status": "success",
+  "data": {
+      "id": 328711,
+      "name": "Star Trek: Discovery",
+      "slug": "star-trek-discovery",
+      "image": "https://artworks.thetvdb.com/banners/posters/328711-5.jpg",
+      "nameTranslations": [
+          "ces",
+          "deu",
+          "ell",
+          "eng",
+          "fra",
+          "heb",
+          "hrv",
+          "hun",
+          "ita",
+          "kor",
+          "nld",
+          "por",
+          "rus",
+          "spa",
+          "swe",
+          "zho",
+          "jpn",
+          "pt",
+          "zhtw",
+          "yue"
+      ],
+      "overviewTranslations": [
+          "ces",
+          "dan",
+          "deu",
+          "ell",
+          "eng",
+          "fra",
+          "heb",
+          "hrv",
+          "hun",
+          "ita",
+          "kor",
+          "nld",
+          "pol",
+          "por",
+          "rus",
+          "spa",
+          "swe",
+          "jpn",
+          "pt",
+          "zhtw"
+      ],
+      "aliases": [
+          {
+              "language": "ita",
+              "name": "Star Trek Discovery"
+          }
+      ],
+      "firstAired": "2017-09-24",
+      "lastAired": "2022-03-17",
+      "nextAired": "",
+      "score": 318339,
+      "status": {
+          "id": 1,
+          "name": "Continuing",
+          "recordType": "series",
+          "keepUpdated": true
+      },
+      "originalCountry": "usa",
+      "originalLanguage": "eng",
+      "defaultSeasonType": 1,
+      "isOrderRandomized": false,
+      "lastUpdated": "2022-11-18 18:27:47",
+      "averageRuntime": 50,
+      "episodes": null,
+      "overview": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.\r\n",
+      "year": "2017",
+      "artworks": [
+          {
+              "id": 1209305,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-5.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-5_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100014,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1218429,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-7.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-7_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100011,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1219231,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-9.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-9_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100010,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1204796,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-1_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100009,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1232277,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-6.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-6_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100009,
+              "width": 1280,
+              "height": 720,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1212277,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-1_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100009,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1234151,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-10.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-10_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100009,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1205045,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-3.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-3_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100008,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1234290,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-11.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-11_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100007,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1232524,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-8.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-8_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100007,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1209308,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g5.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g5_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100007,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1218428,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-6.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-6_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100006,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1205049,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-4.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-4_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100005,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62317430,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/posters/5f5c02d5c8092.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/posters/5f5c02d5c8092_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100005,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1232817,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g2.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g2_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100004,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1205040,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-3.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-3_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100003,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62318408,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f58cf999c656.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f58cf999c656_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100003,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1220209,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-10.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-10_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100003,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1223155,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-12.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-12_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100003,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1324957,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c141da9542ca.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c141da9542ca_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100003,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1252320,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-14.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-14_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100003,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62846970,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61649b8705482.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61649b8705482_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100003,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1205043,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g3.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g3_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100003,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016712,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fb6d9d08e.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fb6d9d08e_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100002,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1235976,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-13.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-13_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100002,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1220210,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-11.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-11_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100002,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1205044,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-2.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-2_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100002,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1267518,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-19.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-19_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100002,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1311853,
+              "image": "https://artworks.thetvdb.com/banners/posters/5bb92b5e931bf.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5bb92b5e931bf_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100002,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1234183,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g6.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g6_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100002,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62912279,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/619a98d2898d0.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/619a98d2898d0_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100001,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62848808,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/617346d416af4.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/617346d416af4_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100001,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1311858,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/5bb92f4711d9a.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/5bb92f4711d9a_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100001,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1258615,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-17.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-17_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100001,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62833557,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/614fa946422aa.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/614fa946422aa_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100001,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62017468,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/62017468.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/62017468_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100001,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62848809,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/61649bc90d95d.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/61649bc90d95d_t.png",
+              "language": "eng",
+              "type": 5,
+              "score": 100001,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62357112,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/icons/5f7f3bae91b6f.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/icons/5f7f3bae91b6f_t.jpg",
+              "language": "eng",
+              "type": 5,
+              "score": 100001,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1239565,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-14.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-14_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100001,
+              "width": 1280,
+              "height": 720,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62932533,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61acca25c5910.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61acca25c5910_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100001,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62562162,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/6070f257d9aaa.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/6070f257d9aaa_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100001,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62562164,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/6070f2704c7e7.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/6070f2704c7e7_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100001,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751090,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b756525887.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b756525887_t.png",
+              "language": "eng",
+              "type": 22,
+              "score": 100001,
+              "width": 1000,
+              "height": 562,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751083,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b754ba1bc6.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b754ba1bc6_t.png",
+              "language": "eng",
+              "type": 23,
+              "score": 100001,
+              "width": 800,
+              "height": 310,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1311914,
+              "image": "https://artworks.thetvdb.com/banners/graphical/5bb9660586255.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/5bb9660586255_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100001,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1204671,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100001,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016706,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fab30b5d1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fab30b5d1_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016714,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fb8ab6c03.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fb8ab6c03_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62447374,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5ff754bac874c.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5ff754bac874c_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1325842,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/5c1aadc482b6c.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/5c1aadc482b6c_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016723,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fc96deb4f.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224fc96deb4f_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62447381,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5ff7558e6e374.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5ff7558e6e374_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016729,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224feccc4edf.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224feccc4edf_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62997281,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/620c1626f3da0.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/620c1626f3da0_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1272355,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-18.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-18_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62318883,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f5942518f051.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f5942518f051_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62452773,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5ffdf52776a88.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5ffdf52776a88_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1373478,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/5d2143345e455.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/5d2143345e455_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016546,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224c2586ee95.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6224c2586ee95_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62908276,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6195573b04c75.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/6195573b04c75_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62973302,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/61e84af444f51.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/61e84af444f51_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63029375,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/623648b491906.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/backgrounds/623648b491906_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62330763,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f63bca698ffa.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f63bca698ffa_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1219469,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-9.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-9_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62073238,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/62073238.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/62073238_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62352022,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f79a4bfc14a2.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f79a4bfc14a2_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62365354,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f90900eae169.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f90900eae169_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370233,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f908fd9986b4.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f908fd9986b4_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62062523,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/panels/62062523.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/panels/62062523_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370236,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f909053b0217.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f909053b0217_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62062524,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/panels/62062524.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/panels/62062524_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62062525,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/panels/62062525.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/panels/62062525_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370239,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9090ad9a110.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9090ad9a110_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370240,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9090ec697f4.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9090ec697f4_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62062528,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/panels/62062528.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/panels/62062528_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370243,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9091ae5a918.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9091ae5a918_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370244,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9091dab8180.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9091dab8180_t.jpg",
+              "language": null,
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370248,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9092fcd88a3.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9092fcd88a3_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370252,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f909382ddc30.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f909382ddc30_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370253,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9093a69009a.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9093a69009a_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370254,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9093c60bc11.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9093c60bc11_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370255,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9093f667666.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9093f667666_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370261,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9094ad07301.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9094ad07301_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370265,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9094e568309.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f9094e568309_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62370266,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f909508e7a3f.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/backgrounds/5f909508e7a3f_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1258219,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-15.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-15_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1356025,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/5cb9de157c435.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/5cb9de157c435_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1335294,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/5c508eddd202d.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/5c508eddd202d_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1920,
+              "height": 1080,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62529894,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/604a73bfe7162.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/604a73bfe7162_t.png",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62973301,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/61e84ad1a9d4e.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/61e84ad1a9d4e_t.png",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62364041,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/icons/5f884f5955af9.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/icons/5f884f5955af9_t.jpg",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62073227,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/icons/62073227.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/icons/62073227_t.jpg",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62954636,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/61ce34c7d1f9b.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/icons/61ce34c7d1f9b_t.png",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62073231,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/icons/62073231.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/icons/62073231_t.jpg",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62073243,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/icons/62073243.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/icons/62073243_t.jpg",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62365359,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/icons/5f8a00fcc5a5a.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/icons/5f8a00fcc5a5a_t.jpg",
+              "language": "eng",
+              "type": 5,
+              "score": 100000,
+              "width": 1024,
+              "height": 1024,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1329807,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/5c3380ed673f1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/5c3380ed673f1_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1280,
+              "height": 720,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1252326,
+              "image": "https://artworks.thetvdb.com/banners/fanart/original/328711-16.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/fanart/original/328711-16_t.jpg",
+              "language": "eng",
+              "type": 3,
+              "score": 100000,
+              "width": 1280,
+              "height": 720,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1373477,
+              "image": "https://artworks.thetvdb.com/banners/posters/5d2141c41a01a.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5d2141c41a01a_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62848812,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61649c39a2628.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61649c39a2628_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016757,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/622502793d0b7.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/622502793d0b7_t.jpg",
+              "language": null,
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62246742,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/posters/5efdda78cd610.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/posters/5efdda78cd610_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62908282,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61955800df5dc.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61955800df5dc_t.jpg",
+              "language": null,
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62317445,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/posters/5f57de0aa3253.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/posters/5f57de0aa3253_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1329803,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c337f688241a.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c337f688241a_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1329804,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c337f973c262.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c337f973c262_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1329805,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c337fab6e64e.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c337fab6e64e_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1329806,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c337fbeb0557.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c337fbeb0557_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62833554,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/614fa8d848d4c.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/614fa8d848d4c_t.jpg",
+              "language": null,
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62833555,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/614fa9306cd0f.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/614fa9306cd0f_t.jpg",
+              "language": null,
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1261977,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-18.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-18_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62916270,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61a190aed6077.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/posters/61a190aed6077_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1332415,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c416981ed955.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c416981ed955_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62364374,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/posters/5f88a5abae9fb.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/posters/5f88a5abae9fb_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1252322,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-15.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-15_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1252323,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-16.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-16_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1252324,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-17.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-17_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62375165,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/posters/5f97242c7d034.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/posters/5f97242c7d034_t.jpg",
+              "language": "eng",
+              "type": 2,
+              "score": 100000,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751091,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b75684f383.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b75684f383_t.png",
+              "language": "eng",
+              "type": 22,
+              "score": 100000,
+              "width": 1000,
+              "height": 562,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751092,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b756b28ce0.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b756b28ce0_t.png",
+              "language": "eng",
+              "type": 22,
+              "score": 100000,
+              "width": 1000,
+              "height": 562,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751093,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b756e56d79.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b756e56d79_t.png",
+              "language": "eng",
+              "type": 22,
+              "score": 100000,
+              "width": 1000,
+              "height": 562,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751094,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b7570dc803.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b7570dc803_t.png",
+              "language": "eng",
+              "type": 22,
+              "score": 100000,
+              "width": 1000,
+              "height": 562,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751095,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b7573769a9.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearart/611b7573769a9_t.png",
+              "language": "eng",
+              "type": 22,
+              "score": 100000,
+              "width": 1000,
+              "height": 562,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751084,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b754e44809.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b754e44809_t.png",
+              "language": "eng",
+              "type": 23,
+              "score": 100000,
+              "width": 800,
+              "height": 310,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751085,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b755132605.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b755132605_t.png",
+              "language": "eng",
+              "type": 23,
+              "score": 100000,
+              "width": 800,
+              "height": 310,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751087,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b75548a6fe.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b75548a6fe_t.png",
+              "language": "eng",
+              "type": 23,
+              "score": 100000,
+              "width": 800,
+              "height": 310,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751088,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b7558d1b5b.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b7558d1b5b_t.png",
+              "language": "eng",
+              "type": 23,
+              "score": 100000,
+              "width": 800,
+              "height": 310,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62751089,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b755b2f7da.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/611b755b2f7da_t.png",
+              "language": "eng",
+              "type": 23,
+              "score": 100000,
+              "width": 800,
+              "height": 310,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63029370,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/6236486420315.png",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/clearlogo/6236486420315_t.png",
+              "language": "eng",
+              "type": 23,
+              "score": 100000,
+              "width": 800,
+              "height": 310,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1234184,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g7.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g7_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100000,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1234188,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g8.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g8_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100000,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016732,
+              "image": "https://artworks.thetvdb.com/banners/v4/series/328711/banners/6224ff96345f5.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/328711/banners/6224ff96345f5_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100000,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1348129,
+              "image": "https://artworks.thetvdb.com/banners/graphical/5c8f82fd6b2ae.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/5c8f82fd6b2ae_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100000,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1335405,
+              "image": "https://artworks.thetvdb.com/banners/graphical/5c515361cb259.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/5c515361cb259_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100000,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62318760,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/banners/5f591c2abc9b3.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/banners/5f591c2abc9b3_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100000,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1232818,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g4.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g4_t.jpg",
+              "language": "eng",
+              "type": 1,
+              "score": 100000,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62784000,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/1857399/posters/61252e38d09e3.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/1857399/posters/61252e38d09e3_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1857399,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447711,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c416a3fcb6e7.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c416a3fcb6e7_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447712,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c4255a279768.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c4255a279768_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447713,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9fbe5b76493.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9fbe5b76493_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447714,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9c5fce99c3b.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9c5fce99c3b_t.jpg",
+              "language": "fra",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447718,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c416a99c879b.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c416a99c879b_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 781584,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447719,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c425675a404f.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c425675a404f_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 781584,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447720,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9fbe99b2b23.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9fbe99b2b23_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 781584,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447722,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5d4ebe318edb2.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5d4ebe318edb2_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 781584,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447723,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9c60f913595.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9c60f913595_t.jpg",
+              "language": "fra",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 781584,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447724,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5bc11875a5cb6.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5bc11875a5cb6_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747085,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447728,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5b829f8abcf78.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5b829f8abcf78_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447729,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c416a3fcb6e7.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c416a3fcb6e7_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016754,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/716913/posters/622501cd144ae.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/716913/posters/622501cd144ae_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447730,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c4255a279768.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c4255a279768_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447731,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9fbe5b76493.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9fbe5b76493_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016756,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/781584/posters/62250211600e8.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/781584/posters/62250211600e8_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 781584,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447732,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9c5fce99c3b.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9c5fce99c3b_t.jpg",
+              "language": "fra",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447734,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5bb92cfa9e122.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5bb92cfa9e122_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747093,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016759,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/1857399/posters/622502929e471.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/1857399/posters/622502929e471_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1857399,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447735,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c1aad1e63690.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c1aad1e63690_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747093,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016760,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/1954901/posters/622502cc8c8b2.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/1954901/posters/622502cc8c8b2_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1954901,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447736,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c416a99c879b.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c416a99c879b_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747093,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447737,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c425675a404f.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c425675a404f_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747093,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63016762,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/712554/posters/622503bae9fa6.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/712554/posters/622503bae9fa6_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 712554,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447738,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9fbe99b2b23.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9fbe99b2b23_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747093,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447739,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5d4ebe318edb2.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5d4ebe318edb2_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747093,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447740,
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9c60f913595.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/5c9c60f913595_t.jpg",
+              "language": "fra",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747093,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62447431,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/seasons/1857399/posters/5ff76a6c81f82.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/seasons/1857399/posters/5ff76a6c81f82_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1857399,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62447433,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/seasons/1857399/posters/5ff76aaccbba1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/seasons/1857399/posters/5ff76aaccbba1_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1857399,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62909096,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/1954901/posters/619690dd0c0ee.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/1954901/posters/619690dd0c0ee_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1954901,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1241814,
+              "image": "https://artworks.thetvdb.com/banners/posters/328711-13.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/328711-13_t.jpg",
+              "language": "heb",
+              "type": 2,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 62364382,
+              "image": "https://artworks.thetvdb.com/banners/series/328711/seasons/1857399/posters/5f88a631b10a0.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/series/328711/seasons/1857399/posters/5f88a631b10a0_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1857399,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1336052,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c5456a773990.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c5456a773990_t.jpg",
+              "language": "heb",
+              "type": 2,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1336053,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c5456b427525.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c5456b427525_t.jpg",
+              "language": "heb",
+              "type": 2,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 63052534,
+              "image": "https://artworks.thetvdb.com/banners/v4/season/1954901/posters/62575f55b8d90.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/v4/season/1954901/posters/62575f55b8d90_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1954901,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1336054,
+              "image": "https://artworks.thetvdb.com/banners/posters/5c5456be939b8.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/posters/5c5456be939b8_t.jpg",
+              "language": "heb",
+              "type": 2,
+              "score": 0,
+              "width": 680,
+              "height": 1000,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447707,
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/328711-1_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 400,
+              "height": 578,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447708,
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1-6.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/328711-1-6_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 400,
+              "height": 578,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447709,
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1-4.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/328711-1-4_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 400,
+              "height": 578,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447725,
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/328711-1_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 400,
+              "height": 578,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447726,
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1-6.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/328711-1-6_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 400,
+              "height": 578,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447727,
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1-4.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasons/328711-1-4_t.jpg",
+              "language": "eng",
+              "type": 7,
+              "score": 0,
+              "width": 400,
+              "height": 578,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 1234186,
+              "image": "https://artworks.thetvdb.com/banners/graphical/328711-g9.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/graphical/328711-g9_t.jpg",
+              "language": "deu",
+              "type": 1,
+              "score": 0,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447715,
+              "image": "https://artworks.thetvdb.com/banners/seasonswide/328711-1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasonswide/328711-1_t.jpg",
+              "language": "eng",
+              "type": 6,
+              "score": 0,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 716913,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 61447733,
+              "image": "https://artworks.thetvdb.com/banners/seasonswide/328711-1.jpg",
+              "thumbnail": "https://artworks.thetvdb.com/banners/seasonswide/328711-1_t.jpg",
+              "language": "eng",
+              "type": 6,
+              "score": 0,
+              "width": 758,
+              "height": 140,
+              "thumbnailWidth": 0,
+              "thumbnailHeight": 0,
+              "updatedAt": 0,
+              "seasonId": 1747089,
+              "status": {
+                  "id": 0,
+                  "name": null
+              },
+              "tagOptions": null
+          }
+      ],
+      "companies": [
+          {
+              "id": 1085,
+              "name": "CBS All Access",
+              "slug": "cbs-all-access",
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [],
+              "aliases": [],
+              "country": "usa",
+              "primaryCompanyType": 1,
+              "activeDate": "2014-10-28",
+              "inactiveDate": "2021-03-04",
+              "companyType": {
+                  "companyTypeId": 1,
+                  "companyTypeName": "Network"
+              },
+              "parentCompany": {
+                  "id": 47745,
+                  "name": "Paramount+",
+                  "relation": {
+                      "id": 2,
+                      "typeName": "Rebranded As"
+                  }
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 9502,
+              "name": "CBS Television Studios",
+              "slug": "cbs-television-studios",
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [],
+              "aliases": [
+                  {
+                      "language": "eng",
+                      "name": "CBS Studios"
+                  }
+              ],
+              "country": "usa",
+              "primaryCompanyType": 2,
+              "activeDate": null,
+              "inactiveDate": null,
+              "companyType": {
+                  "companyTypeId": 3,
+                  "companyTypeName": "Production Company"
+              },
+              "parentCompany": {
+                  "id": 47784,
+                  "name": "Paramount Global",
+                  "relation": {
+                      "id": null,
+                      "typeName": null
+                  }
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 37997,
+              "name": "Secret Hideout",
+              "slug": "secret-hideout",
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [
+                  "eng"
+              ],
+              "aliases": [],
+              "country": "usa",
+              "primaryCompanyType": 3,
+              "activeDate": "2014-04-22",
+              "inactiveDate": null,
+              "companyType": {
+                  "companyTypeId": 3,
+                  "companyTypeName": "Production Company"
+              },
+              "parentCompany": {
+                  "id": null,
+                  "name": null,
+                  "relation": {
+                      "id": null,
+                      "typeName": null
+                  }
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 36570,
+              "name": "Roddenberry Entertainment",
+              "slug": "roddenberry-entertainment",
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [],
+              "aliases": [],
+              "country": null,
+              "primaryCompanyType": 3,
+              "activeDate": null,
+              "inactiveDate": null,
+              "companyType": {
+                  "companyTypeId": 3,
+                  "companyTypeName": "Production Company"
+              },
+              "parentCompany": {
+                  "id": null,
+                  "name": null,
+                  "relation": {
+                      "id": null,
+                      "typeName": null
+                  }
+              },
+              "tagOptions": null
+          },
+          {
+              "id": 47745,
+              "name": "Paramount+",
+              "slug": "paramount-plus",
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [],
+              "aliases": [],
+              "country": "usa",
+              "primaryCompanyType": 1,
+              "activeDate": "2021-03-04",
+              "inactiveDate": null,
+              "companyType": {
+                  "companyTypeId": 1,
+                  "companyTypeName": "Network"
+              },
+              "parentCompany": {
+                  "id": 47784,
+                  "name": "Paramount Global",
+                  "relation": {
+                      "id": null,
+                      "typeName": null
+                  }
+              },
+              "tagOptions": null
+          }
+      ],
+      "originalNetwork": {
+          "id": 1085,
+          "name": "CBS All Access",
+          "slug": "cbs-all-access",
+          "nameTranslations": [
+              "eng"
+          ],
+          "overviewTranslations": [],
+          "aliases": [],
+          "country": "usa",
+          "primaryCompanyType": 1,
+          "activeDate": "2014-10-28",
+          "inactiveDate": "2021-03-04",
+          "companyType": {
+              "companyTypeId": 1,
+              "companyTypeName": "Network"
+          },
+          "parentCompany": {
+              "id": 47745,
+              "name": "Paramount+",
+              "relation": {
+                  "id": 2,
+                  "typeName": "Rebranded As"
+              }
+          },
+          "tagOptions": [
+              {
+                  "id": 489,
+                  "tag": 24,
+                  "tagName": "Company Type",
+                  "name": "SVOD",
+                  "helpText": "Subscription video on demand. Examples: Netflix Amazon Prime Video, Disney+."
+              }
+          ]
+      },
+      "latestNetwork": {
+          "id": 47745,
+          "name": "Paramount+",
+          "slug": "paramount-plus",
+          "nameTranslations": [
+              "eng"
+          ],
+          "overviewTranslations": [],
+          "aliases": [],
+          "country": "usa",
+          "primaryCompanyType": 1,
+          "activeDate": "2021-03-04",
+          "inactiveDate": null,
+          "companyType": {
+              "companyTypeId": 1,
+              "companyTypeName": "Network"
+          },
+          "parentCompany": {
+              "id": 47784,
+              "name": "Paramount Global",
+              "relation": {
+                  "id": null,
+                  "typeName": null
+              }
+          },
+          "tagOptions": [
+              {
+                  "id": 489,
+                  "tag": 24,
+                  "tagName": "Company Type",
+                  "name": "SVOD",
+                  "helpText": "Subscription video on demand. Examples: Netflix Amazon Prime Video, Disney+."
+              }
+          ]
+      },
+      "genres": [
+          {
+              "id": 2,
+              "name": "Science Fiction",
+              "slug": "science-fiction"
+          },
+          {
+              "id": 12,
+              "name": "Drama",
+              "slug": "drama"
+          },
+          {
+              "id": 18,
+              "name": "Adventure",
+              "slug": "adventure"
+          },
+          {
+              "id": 19,
+              "name": "Action",
+              "slug": "action"
+          }
+      ],
+      "trailers": [],
+      "lists": [
+          {
+              "id": 23,
+              "name": "Star Trek: Original Timeline",
+              "overview": "Space... the final frontier.",
+              "url": "star-trek",
+              "isOfficial": true,
+              "nameTranslations": [
+                  "eng",
+                  "pt",
+                  "fra",
+                  "spa",
+                  "ita",
+                  "tur"
+              ],
+              "overviewTranslations": [
+                  "eng",
+                  "pt",
+                  "fra",
+                  "spa",
+                  "ita"
+              ],
+              "aliases": [],
+              "score": 999704,
+              "image": "",
+              "imageIsFallback": false,
+              "remoteIds": null,
+              "tags": null
+          },
+          {
+              "id": 7207,
+              "name": "TV",
+              "overview": "",
+              "url": "7207",
+              "isOfficial": false,
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [
+                  "eng"
+              ],
+              "aliases": [],
+              "score": 0,
+              "image": "",
+              "imageIsFallback": false,
+              "remoteIds": null,
+              "tags": null
+          },
+          {
+              "id": 7271,
+              "name": "Running",
+              "overview": "",
+              "url": "7271",
+              "isOfficial": false,
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [
+                  "eng"
+              ],
+              "aliases": [],
+              "score": 0,
+              "image": "",
+              "imageIsFallback": false,
+              "remoteIds": null,
+              "tags": null
+          },
+          {
+              "id": 13161,
+              "name": "Culte",
+              "overview": "",
+              "url": "13161",
+              "isOfficial": false,
+              "nameTranslations": [
+                  "fra"
+              ],
+              "overviewTranslations": [
+                  "fra"
+              ],
+              "aliases": [],
+              "score": 0,
+              "image": "",
+              "imageIsFallback": false,
+              "remoteIds": null,
+              "tags": null
+          },
+          {
+              "id": 13561,
+              "name": "Johnnybebad1972",
+              "overview": "",
+              "url": "13561",
+              "isOfficial": false,
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [
+                  "eng"
+              ],
+              "aliases": [],
+              "score": 65542377,
+              "image": "",
+              "imageIsFallback": false,
+              "remoteIds": null,
+              "tags": null
+          },
+          {
+              "id": 13604,
+              "name": "Mom Drive (2022)",
+              "overview": "",
+              "url": "13604",
+              "isOfficial": false,
+              "nameTranslations": [
+                  "eng"
+              ],
+              "overviewTranslations": [
+                  "eng"
+              ],
+              "aliases": [],
+              "score": 0,
+              "image": "",
+              "imageIsFallback": false,
+              "remoteIds": null,
+              "tags": null
+          }
+      ],
+      "remoteIds": [
+          {
+              "id": "https://www.paramountplus.com/shows/star-trek-discovery/",
+              "type": 4,
+              "sourceName": "Official Website"
+          },
+          {
+              "id": "tt5171438",
+              "type": 2,
+              "sourceName": "IMDB"
+          },
+          {
+              "id": "SH02478293",
+              "type": 3,
+              "sourceName": "TMS (Zap2It)"
+          },
+          {
+              "id": "67198",
+              "type": 12,
+              "sourceName": "TheMovieDB.com"
+          }
+      ],
+      "characters": [
+          {
+              "id": 64490425,
+              "name": "Ash Tyler",
+              "peopleId": 511081,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/511081/5f908c118ebd4.jpg",
+              "sort": 9,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/511081-shazad-latif",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Shazad Latif",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/511081/5f9dde6e258d2.jpg"
+          },
+          {
+              "id": 64490432,
+              "name": "Paul Stamets",
+              "peopleId": 356699,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/356699/5f9ddd1f947dc.jpg",
+              "sort": 3,
+              "isFeatured": true,
+              "url": "https://thetvdb.com/people/356699-anthony-rapp",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Anthony Rapp",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/v4/actor/356699/photo/6223b11756671.jpg"
+          },
+          {
+              "id": 64490438,
+              "name": "Sylvia Tilly",
+              "peopleId": 7878142,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/7878142/5f9ddceacb968.jpg",
+              "sort": 4,
+              "isFeatured": true,
+              "url": "https://thetvdb.com/people/7878142-mary-wiseman",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Mary Wiseman",
+              "tagOptions": null,
+              "personImgURL": null
+          },
+          {
+              "id": 64490443,
+              "name": "Gabriel Lorca",
+              "peopleId": 346159,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/actors/619d41c7ada8b.jpg",
+              "sort": 10,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/346159-jason-isaacs",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Jason Isaacs",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/346159/5fd3f6050992c.jpg"
+          },
+          {
+              "id": 64490446,
+              "name": "Michael Burnham",
+              "peopleId": 294207,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/294207/5f9ddc4279411.jpg",
+              "sort": 1,
+              "isFeatured": true,
+              "url": "https://thetvdb.com/people/294207-sonequa-martin-green",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Sonequa Martin-Green",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/294207/53548040.jpg"
+          },
+          {
+              "id": 64490450,
+              "name": "Saru",
+              "peopleId": 252499,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/252499/5f9ddd55b6d23.jpg",
+              "sort": 2,
+              "isFeatured": true,
+              "url": "https://thetvdb.com/people/252499-doug-jones",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Doug Jones",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/252499/637a0153e4b7f.jpg"
+          },
+          {
+              "id": 64490454,
+              "name": "Philippa Georgiou",
+              "peopleId": 310641,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/310641/5f9ddcaf8962e.jpg",
+              "sort": 8,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/310641-michelle-yeoh",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Michelle Yeoh",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/310641/5ebebe621a0b0.jpg"
+          },
+          {
+              "id": 64490462,
+              "name": "Hugh Culber",
+              "peopleId": 267118,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/267118/5f9ddcd2f21c4.jpg",
+              "sort": 5,
+              "isFeatured": true,
+              "url": "https://thetvdb.com/people/267118-wilson-cruz",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Wilson Cruz",
+              "tagOptions": null,
+              "personImgURL": null
+          },
+          {
+              "id": 64490469,
+              "name": "Christopher Pike",
+              "peopleId": 314566,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/314566/5f59169292c31.jpg",
+              "sort": 11,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/314566-anson-mount",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Anson Mount",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/314566/5efddbbd4b397.jpg"
+          },
+          {
+              "id": 64490475,
+              "name": "Spock",
+              "peopleId": 313011,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/313011/5f9354ec527a1.jpg",
+              "sort": 12,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/313011-ethan-peck",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Ethan Peck",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/313011/5efddb92a6dd6.jpg"
+          },
+          {
+              "id": 65683741,
+              "name": "Cleveland “Book” Booker",
+              "peopleId": 471631,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/471631/5f9ddc65e773c.jpg",
+              "sort": 6,
+              "isFeatured": true,
+              "url": "https://thetvdb.com/people/471631-david-ajala",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "David Ajala",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/471631/5fea9cc7dbc0f.jpg"
+          },
+          {
+              "id": 65696139,
+              "name": "Sarek",
+              "peopleId": 317597,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/317597/5f9b2a0d0365f.jpg",
+              "sort": 13,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/317597-james-frain",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "James Frain",
+              "tagOptions": null,
+              "personImgURL": null
+          },
+          {
+              "id": 65725426,
+              "name": "Adira",
+              "peopleId": 8182450,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/person/8182450/5fc298a75afcf.jpg",
+              "sort": 7,
+              "isFeatured": true,
+              "url": "https://thetvdb.com/people/8182450-blu-del-barrio",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Blu del Barrio",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/8182450/5f9b2a6ea8918.jpg"
+          },
+          {
+              "id": 68001763,
+              "name": "Charles Vance",
+              "peopleId": 269091,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/v4/actor/269091/photo/61649d1734175.jpg",
+              "sort": 14,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/269091-oded-fehr",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Oded Fehr",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/269091/5faec3988c7d9.jpg"
+          },
+          {
+              "id": 68001764,
+              "name": "Jett Reno",
+              "peopleId": 308248,
+              "seriesId": 328711,
+              "series": null,
+              "movie": null,
+              "movieId": null,
+              "episodeId": null,
+              "type": 3,
+              "image": "https://artworks.thetvdb.com/banners/v4/actor/308248/photo/61649df236125.jpg",
+              "sort": 15,
+              "isFeatured": false,
+              "url": "https://thetvdb.com/people/308248-tig-notaro",
+              "nameTranslations": null,
+              "overviewTranslations": null,
+              "aliases": null,
+              "peopleType": "Actor",
+              "personName": "Tig Notaro",
+              "tagOptions": null,
+              "personImgURL": "https://artworks.thetvdb.com/banners/person/308248/61649e231bd4b.jpg"
+          }
+      ],
+      "airsDays": {
+          "sunday": false,
+          "monday": false,
+          "tuesday": false,
+          "wednesday": false,
+          "thursday": true,
+          "friday": false,
+          "saturday": false
+      },
+      "airsTime": "03:00",
+      "seasons": [
+          {
+              "id": 712554,
+              "seriesId": 328711,
+              "type": {
+                  "id": 1,
+                  "name": "Aired Order",
+                  "type": "official",
+                  "alternateName": null
+              },
+              "number": 0,
+              "nameTranslations": [],
+              "overviewTranslations": [],
+              "image": "https://artworks.thetvdb.com/banners/v4/season/712554/posters/622503bae9fa6.jpg",
+              "imageType": 7,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2022-03-06 18:55:56"
+          },
+          {
+              "id": 716913,
+              "seriesId": 328711,
+              "type": {
+                  "id": 1,
+                  "name": "Aired Order",
+                  "type": "official",
+                  "alternateName": null
+              },
+              "number": 1,
+              "nameTranslations": [],
+              "overviewTranslations": [
+                  "eng,jpn,pol,por,spa,zho"
+              ],
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1-6.jpg",
+              "imageType": 7,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2022-07-31 08:23:50"
+          },
+          {
+              "id": 781584,
+              "seriesId": 328711,
+              "type": {
+                  "id": 1,
+                  "name": "Aired Order",
+                  "type": "official",
+                  "alternateName": null
+              },
+              "number": 2,
+              "nameTranslations": [],
+              "overviewTranslations": [
+                  "eng,jpn,pol,por,spa,zho"
+              ],
+              "image": "https://artworks.thetvdb.com/banners/seasons/5c9fbe99b2b23.jpg",
+              "imageType": 7,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2022-03-06 18:48:50"
+          },
+          {
+              "id": 1857399,
+              "seriesId": 328711,
+              "type": {
+                  "id": 1,
+                  "name": "Aired Order",
+                  "type": "official",
+                  "alternateName": null
+              },
+              "number": 3,
+              "nameTranslations": [],
+              "overviewTranslations": [
+                  "deu,ell,eng,ita,nld,por,pt,spa"
+              ],
+              "image": "https://artworks.thetvdb.com/banners/v4/season/1857399/posters/622502929e471.jpg",
+              "imageType": 7,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2022-03-06 18:50:59"
+          },
+          {
+              "id": 1954901,
+              "seriesId": 328711,
+              "type": {
+                  "id": 1,
+                  "name": "Aired Order",
+                  "type": "official",
+                  "alternateName": null
+              },
+              "number": 4,
+              "nameTranslations": [],
+              "overviewTranslations": [
+                  "ces,deu,eng,fra,ita,por,pt,spa"
+              ],
+              "image": "https://artworks.thetvdb.com/banners/v4/season/1954901/posters/622502cc8c8b2.jpg",
+              "imageType": 7,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2022-09-03 22:56:00"
+          },
+          {
+              "id": 1747085,
+              "seriesId": 328711,
+              "type": {
+                  "id": 2,
+                  "name": "DVD Order",
+                  "type": "dvd",
+                  "alternateName": null
+              },
+              "number": 0,
+              "nameTranslations": [],
+              "overviewTranslations": [],
+              "image": "https://artworks.thetvdb.com/banners/seasons/5bc11875a5cb6.jpg",
+              "imageType": 7,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2019-12-15 20:58:37"
+          },
+          {
+              "id": 1747089,
+              "seriesId": 328711,
+              "type": {
+                  "id": 2,
+                  "name": "DVD Order",
+                  "type": "dvd",
+                  "alternateName": null
+              },
+              "number": 1,
+              "nameTranslations": [],
+              "overviewTranslations": [],
+              "image": "https://artworks.thetvdb.com/banners/seasons/328711-1.jpg",
+              "imageType": 6,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2022-07-31 08:23:50"
+          },
+          {
+              "id": 1747093,
+              "seriesId": 328711,
+              "type": {
+                  "id": 2,
+                  "name": "DVD Order",
+                  "type": "dvd",
+                  "alternateName": null
+              },
+              "number": 2,
+              "nameTranslations": [],
+              "overviewTranslations": [],
+              "image": "https://artworks.thetvdb.com/banners/seasons/5bb92cfa9e122.jpg",
+              "imageType": 7,
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2019-11-13 12:08:31"
+          },
+          {
+              "id": 1875431,
+              "seriesId": 328711,
+              "type": {
+                  "id": 2,
+                  "name": "DVD Order",
+                  "type": "dvd",
+                  "alternateName": null
+              },
+              "number": 3,
+              "nameTranslations": [],
+              "overviewTranslations": [],
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2020-10-20 19:14:45"
+          },
+          {
+              "id": 1747084,
+              "seriesId": 328711,
+              "type": {
+                  "id": 3,
+                  "name": "Absolute Order",
+                  "type": "absolute",
+                  "alternateName": null
+              },
+              "number": 1,
+              "nameTranslations": [],
+              "overviewTranslations": [],
+              "companies": {
+                  "studio": null,
+                  "network": null,
+                  "production": null,
+                  "distributor": null,
+                  "special_effects": null
+              },
+              "lastUpdated": "2022-09-03 22:56:00"
+          }
+      ],
+      "tags": [
+          {
+              "id": 105,
+              "tag": 4,
+              "tagName": "Time Period",
+              "name": "Distant Future",
+              "helpText": null
+          },
+          {
+              "id": 219,
+              "tag": 13,
+              "tagName": "Supernatural Beings",
+              "name": "Aliens",
+              "helpText": null
+          },
+          {
+              "id": 63,
+              "tag": 3,
+              "tagName": "TV Type or Format",
+              "name": "Story-based Drama",
+              "helpText": "Drama series where you must watch all episodes in order. Ex: Game of Thrones, The Walking Dead, Killing Eve"
+          }
+      ],
+      "contentRatings": [
+          {
+              "id": 26,
+              "name": "14",
+              "country": "bra",
+              "description": "Suitable for viewers over the age of 14",
+              "contentType": "",
+              "order": 0,
+              "fullname": null
+          },
+          {
+              "id": 39,
+              "name": "14+",
+              "country": "can",
+              "description": "Programming intended for viewers ages 14 and older",
+              "contentType": "",
+              "order": 0,
+              "fullname": null
+          },
+          {
+              "id": 77,
+              "name": "FSK 16",
+              "country": "deu",
+              "description": "Restricted to ages 16 and older",
+              "contentType": "",
+              "order": 0,
+              "fullname": null
+          },
+          {
+              "id": 566,
+              "name": "15",
+              "country": "gbr",
+              "description": "Restricted to ages 15 and older",
+              "contentType": "",
+              "order": 0,
+              "fullname": null
+          },
+          {
+              "id": 246,
+              "name": "TV-14",
+              "country": "usa",
+              "description": "Not suitable for children under 14",
+              "contentType": "",
+              "order": 0,
+              "fullname": null
+          }
+      ],
+      "seasonTypes": [
+          {
+              "id": 1,
+              "name": "Aired Order",
+              "type": "official",
+              "alternateName": null
+          },
+          {
+              "id": 2,
+              "name": "DVD Order",
+              "type": "dvd",
+              "alternateName": null
+          },
+          {
+              "id": 3,
+              "name": "Absolute Order",
+              "type": "absolute",
+              "alternateName": null
+          }
+      ]
+  }
+}
