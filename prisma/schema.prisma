@@ -1,0 +1,52 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Show {
+  id             String   @id @default(uuid())
+  tvdbId         Int      @unique
+  name           String
+  overview       String
+  image          String?
+  firstAired     String
+  lastAired      String
+  status         String
+  averageRuntime Int
+  year           String
+  seasons        Season[]
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @default(now()) @updatedAt
+}
+
+model Season {
+  id        String    @id @default(uuid())
+  tvdbId    Int       @unique
+  showId    String
+  show      Show      @relation(fields: [showId], references: [id])
+  number    Int
+  image     String?
+  episodes  Episode[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @default(now()) @updatedAt
+}
+
+model Episode {
+  id        String   @id @default(uuid())
+  tvdbId    Int      @unique
+  seasonId  String
+  season    Season   @relation(fields: [seasonId], references: [id])
+  name      String
+  overview  String
+  aired     DateTime
+  image     String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+}

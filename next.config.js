@@ -4,9 +4,6 @@ const nextConfig = {
   swcMinify: true,
   images: {
     domains: ['artworks.thetvdb.com']
-  },
-  experimental: {
-    appDir: true,
   }
 };
 
