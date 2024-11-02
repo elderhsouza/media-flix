@@ -12,7 +12,7 @@
     "db:ingestion": "ts-node scripts/database-ingestion.ts"
   },
   "dependencies": {
-    "@prisma/client": "^4.15.0",
+    "@prisma/client": "^4.16.2",
     "http-status": "^1.5.3",
     "lodash": "^4.17.21",
     "next": "14.2.10",
